@@ -56,15 +56,15 @@ function Bio() {
         Written by <strong>{author}</strong>
         {shortBio ? ` ${shortBio}` : ''}.{` `}
         {social.buttondown ? (
-          Join my <a href={`https://buttondown.email/${social.buttondown}`}>
+          "Join my " + <a href={`https://buttondown.email/${social.buttondown}`}>
             newsletter
-          </a> or
-        ) : null}{` `}
+          </a>
+        ) : null}{` or `}
         {social.twitter ? (
-          follow on <a href={`https://twitter.com/${social.twitter}`}>
+          "follow on " + <a href={`https://twitter.com/${social.twitter}`}>
             Twitter
-          </a>.
-        ) : null}
+          </a>
+        ) : null}.
       </p>
     </div>
   )
