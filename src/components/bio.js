@@ -22,6 +22,7 @@ function Bio() {
             author
             shortBio
             social {
+              buttondown
               twitter
             }
           }
