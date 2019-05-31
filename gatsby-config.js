@@ -22,6 +22,7 @@ const configuration = {
     github: 'paramaggarwal',
     linkedin: 'paramaggarwal',
     instagram: 'paramaggarwal',
+    buttondown: 'param',
   },
 }
 
