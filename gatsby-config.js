@@ -4,12 +4,12 @@ const configuration = {
   // the name of your website
   title: 'Param Aggarwal',
   // the description of the website (eg. what shows on Google)
-  description: "Apple, Tesla and JavaScript. Occasional life lessons. Tomorrow, I’ll write a new post.",
+  description: "Mini thoughts about JavaScript, Apple and Tesla.",
   // a short bio shown at the bottom of your blog posts
   // It should complete the sentence: Written by Param Aggarwal ...
-  shortBio: '',
+  shortBio: 'in Bengaluru.',
   // a longer bio showing on the landing page of the blog
-  bio: `Software guy. When you try to tell computers what to do, you eventually learn about human nature as well. (http://paramaggarwal.com).`,
+  bio: `Apple, Tesla and JavaScript. Occasional life lessons. Tomorrow, I’ll write a new post.`,
   author: 'Param Aggarwal',
   githubUrl: 'https://github.com/paramaggarwal/blog',
   // replace this by the url where your website will be published
