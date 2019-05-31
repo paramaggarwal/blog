@@ -35,7 +35,9 @@ export default function PageTemplate({ data: { mdx, site }, pageContext }) {
       <section className="center blog">
         <article className="container small">
           <header>
-            <h1>{mdx.frontmatter.title}</h1>
+            <h1>
+              <a href="/">«</a> {mdx.frontmatter.title}
+            </h1>
             <p>
               {formatPostDate(mdx.frontmatter.date)}
               {` • ${formatReadingTime(mdx.timeToRead)}`}
@@ -44,8 +46,12 @@ export default function PageTemplate({ data: { mdx, site }, pageContext }) {
           </header>
 
           <MDXRenderer scope={{ Embed }}>{mdx.code.body}</MDXRenderer>
-          <hr/>
-          <Embed src="https://buttondown.email/param?as_embed=true" height={200} width={600} />
+          <hr />
+          <Embed
+            src="https://buttondown.email/param?as_embed=true"
+            height={200}
+            width={600}
+          />
         </article>
         <footer className="container small">
           <small>
