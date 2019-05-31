@@ -43,7 +43,3 @@ The message that Ira makes is beautiful, but I love how the message shows in two
 The original video is just one clip of a four part interview. Ira mentions that one needs to constantly keep doing till the really great things emerge. And yes, to come up with this little gem of advice, it took an entire twenty minutes speaking on the interview.
 
 _It takes time, so the best you can do, is to just do._
-
----
-
-_If you enjoyed this little compendium, please hit_ **_Recommend_**_ — it helps other people discover it on Medium._
