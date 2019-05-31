@@ -55,10 +55,15 @@ function Bio() {
       <p style={{ margin: 0 }}>
         Written by <strong>{author}</strong>
         {shortBio ? ` ${shortBio}` : ''}.{` `}
+        {social.buttondown ? (
+          Join my <a href={`https://buttondown.email/${social.buttondown}`}>
+            newsletter
+          </a> or
+        ) : null}{` `}
         {social.twitter ? (
-          <a href={`https://twitter.com/${social.twitter}`}>
-            You should follow them on Twitter.
-          </a>
+          follow on <a href={`https://twitter.com/${social.twitter}`}>
+            Twitter
+          </a>.
         ) : null}
       </p>
     </div>
