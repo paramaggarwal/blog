@@ -1,8 +1,8 @@
 ---
-title: "iPad Line-up and The New 10.5" Model"
-description: "Today, John Gruber wrote About That Purported 10.5-Inch iPad, which makes good points against the rumors spreading. Here, I demonstrate how the line-up might evolve with pictures. This month, we’ll…"
-date: "2017-03-21T02:34:48.290Z"
-categories: 
+title: 'iPad Line-up and The New 10.5 Model'
+description: 'Today, John Gruber wrote About That Purported 10.5-Inch iPad, which makes good points against the rumors spreading. Here, I demonstrate how the line-up might evolve with pictures. This month, we’ll…'
+date: '2017-03-21T02:34:48.290Z'
+categories:
   - Apple
   - iPad Pro
   - iPad
@@ -13,15 +13,15 @@ canonicalLink: https://medium.com/@paramaggarwal/ipad-line-up-and-the-new-10-5-m
 
 ## A gentler approach to how Apple might update the iPad line-up by the end of this year.
 
-Today, John Gruber wrote [About That Purported 10.5-Inch iPad](http://daringfireball.net/2017/03/about_that_10_point_5_inch_ipad "Permanent link to ‘About That Purported 10.5-Inch iPad’"), which makes good points against the rumors spreading. Here, I demonstrate how the line-up might evolve with pictures.
+Today, John Gruber wrote [About That Purported 10.5-Inch iPad](http://daringfireball.net/2017/03/about_that_10_point_5_inch_ipad 'Permanent link to ‘About That Purported 10.5-Inch iPad’'), which makes good points against the rumors spreading. Here, I demonstrate how the line-up might evolve with pictures.
 
-This month, we’ll see a silent update to the iPad line-up, without an announcement event. All iPads get a $100 price-cut as always.
+This month, we’ll see a silent update to the iPad line-up, without an announcement event. All iPads get a \$100 price-cut as always.
 
 ![March 2017 line-up](./asset-1.png)
 
-Notice the new $199 entry-point price for iPad is now possible with the iPad mini 2 capable of offering a great experience and might become the go-to tablet for kids instead of the iPod touch.
+Notice the new \$199 entry-point price for iPad is now possible with the iPad mini 2 capable of offering a great experience and might become the go-to tablet for kids instead of the iPod touch.
 
-This would mean no new iPads for now, but the pricing across the line-up is very tempting. Notice the iPad Pro 9.7" sits in the sweet spot $499 price-point that iPad used to always be at. It is also the most capable device in the line-up.
+This would mean no new iPads for now, but the pricing across the line-up is very tempting. Notice the iPad Pro 9.7" sits in the sweet spot \$499 price-point that iPad used to always be at. It is also the most capable device in the line-up.
 
 **But, look at what happens next year:**
 
