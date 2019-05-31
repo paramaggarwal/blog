@@ -64,9 +64,3 @@ But even more importantly, this allows you to leverage the power and cost oF CDN
 I find it fascinating that we are back to generating separate HTML/CSS and JS files and then putting them on a static file server — the CDN. It has been a decade long effort and as we come back to where we started, I feel like we are at a whole another level (a spiral?).
 
 At the end of the day, the output remains the same, but we have much more sophisticated tooling similar to many other things in life. Imagine the complexity involved in converting your voice into bits and transmitting it over a combination of wires and air spectrum to reach the other person contrary to the past where we would just travel and meet people. Over time the outcome remains the same, but by introducing complexity and then effectively abstracting it away, we are able to accomplish things indistinguisable from magic.
-
----
-
-_I wrote this for my newsletter:_
-
-<Embed src="https://buttondown.email/param?as_embed=true" height={200} width={600} />
