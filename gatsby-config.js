@@ -11,7 +11,7 @@ const configuration = {
   // a longer bio showing on the landing page of the blog
   bio: `Software guy. When you try to tell computers what to do, you eventually learn about human nature as well. (http://paramaggarwal.com).`,
   author: 'Param Aggarwal',
-  githubUrl: 'git@github.com:paramaggarwal/blog.git',
+  githubUrl: 'https://github.com/paramaggarwal/blog',
   // replace this by the url where your website will be published
   siteUrl: 'http://localhost:8000',
   social: {
