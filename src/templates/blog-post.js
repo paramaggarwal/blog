@@ -46,12 +46,12 @@ export default function PageTemplate({ data: { mdx, site }, pageContext }) {
           </header>
 
           <MDXRenderer scope={{ Embed }}>{mdx.code.body}</MDXRenderer>
-          <hr />
-          <Embed
+          {/* <hr /> */}
+          {/* <Embed
             src="https://buttondown.email/param?as_embed=true"
             height={200}
             width={600}
-          />
+          /> */}
         </article>
         <footer className="container small">
           <small>
