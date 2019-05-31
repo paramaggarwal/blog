@@ -1,8 +1,8 @@
 ---
-title: "Wireless link using Nordic nRF24L01+ modules"
-description: "I just really like these modules. They are extremely cute. That little chip on the board is a Nordic nRF24L01+ 2.4GHz transceiver and is actually just 3x3mm. Really tiny. I must say Sparkfun has a…"
-date: "2016-02-19T17:03:57.772Z"
-categories: 
+title: 'Wireless link using Nordic nRF24L01+ modules'
+description: 'I just really like these modules. They are extremely cute. That little chip on the board is a Nordic nRF24L01+ 2.4GHz transceiver and is actually just 3x3mm. Really tiny. I must say Sparkfun has a…'
+date: '2016-02-19T17:03:57.772Z'
+categories:
   - Arduino
   - Nordic
   - Wireless
@@ -17,7 +17,7 @@ I just really like these modules. They are extremely cute. That little chip on t
 
 ![](./asset-2.jpg)
 
-I must say Sparkfun has a certain design sense of laying out boards. Really beautiful and easy to use. The pins are clearly labelled. They sell them for $20 [here](http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.sparkfun.com%2Fproducts%2F691&t=Yzg3MDNjYTk1M2EyNTJiOTkwNDY3Zjc3YWNhZmFiNWJiNTc3NGY2OSxqT0xDemNYZg%3D%3D). In India, I sell via [my site](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in&t=MGRiMzgxMmU4NTliN2VhZWExNDhkZDdmYTEzZWU4ZmNhNmZkYWFjYyxqT0xDemNYZg%3D%3D).
+I must say Sparkfun has a certain design sense of laying out boards. Really beautiful and easy to use. The pins are clearly labelled. They sell them for \$20 [here](http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.sparkfun.com%2Fproducts%2F691&t=Yzg3MDNjYTk1M2EyNTJiOTkwNDY3Zjc3YWNhZmFiNWJiNTc3NGY2OSxqT0xDemNYZg%3D%3D). In India, I sell via [my site](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in&t=MGRiMzgxMmU4NTliN2VhZWExNDhkZDdmYTEzZWU4ZmNhNmZkYWFjYyxqT0xDemNYZg%3D%3D).
 
 They come without the header pins, so I had to solder them myself. I have started using these great jumper wires that keep things really clean. Before I used to strip wires which was very finicky.
 
@@ -68,7 +68,3 @@ First make a little buffer for the new packet about to arrive. Wait for a new pa
 So we have seen how quick it is to get a basic link up with a pair of 2.4GHz modules. These are just great modules. The range for line-of-sight is around 20 feet at least, though it is error prone. These modules are not geared for range, but for power consumption and speed. They are meant to be used in bursts and should have another layer of reliability in software.
 
 I used this link to further make my [Scrolling Tweets](http://www.paramaggarwal.com/post/28330849923/scrolling-tweets-a-tiny-display-for-the-latest-news) project not have the WiFi module, but use these cheaper Nordic modules. All the code is on Github: [https://github.com/paramaggarwal/nordicmatrix](http://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fparamaggarwal%2Fnordicmatrix&t=MGYwZjExYzE4NzhiY2JmZjZhN2JhMzVjYmIzZmZiNDYzZjliM2NjYyxqT0xDemNYZg%3D%3D)
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/29259437177/wireless-link-using-nordic-nrf24l01-modules)_._

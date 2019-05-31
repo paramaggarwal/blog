@@ -1,8 +1,8 @@
 ---
-title: "Converting an STM32F103 board to a Black Magic Probe"
-description: "The bare STM32F103 board only comes with a default USART boot loader. Even though there is a USB port on the board, you cannot use it to program it because it does not have the relevant bootloader. I…"
-date: "2016-12-26T21:20:09.393Z"
-categories: 
+title: 'Converting an STM32F103 board to a Black Magic Probe'
+description: 'The bare STM32F103 board only comes with a default USART boot loader. Even though there is a USB port on the board, you cannot use it to program it because it does not have the relevant bootloader. I…'
+date: '2016-12-26T21:20:09.393Z'
+categories:
   - Programming
   - DIY
   - Embedded Systems
@@ -13,13 +13,13 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/converting-an-stm32f103-board-to-a-black-magic-probe-c013cf2cc38c
 ---
 
-## Using the $2 (Blue Pill) STM32 board we can have a debugger that supports breakpoints. No need of OpenOCD server, as it runs a GDB server on chip directly.
+## Using the \$2 (Blue Pill) STM32 board we can have a debugger that supports breakpoints. No need of OpenOCD server, as it runs a GDB server on chip directly.
 
 ![A generic $2 STM32F103 board on AliExpress (aka Blue Pill)](./asset-1.jpeg)
 
 The bare STM32F103 board only comes with a default USART boot loader. Even though there is a USB port on the board, you cannot use it to program it because it does not have the relevant bootloader.
 
-I got my board for less than $2 from [Advanced Tech on AliExpress](https://www.aliexpress.com/item/STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-Forarduino/1748445137.html?spm=2114.13010608.0.0.lSeZxD). We need to use a simple USB to UART converter to program the board via USART with a USB boot loader, and then we can get back to programming it directly via USB.
+I got my board for less than \$2 from [Advanced Tech on AliExpress](https://www.aliexpress.com/item/STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-Forarduino/1748445137.html?spm=2114.13010608.0.0.lSeZxD). We need to use a simple USB to UART converter to program the board via USART with a USB boot loader, and then we can get back to programming it directly via USB.
 
 First, connect your USB to Serial/UART/TTL Converter like this:
 
@@ -78,4 +78,4 @@ For further command refer to the GDB manual or to [Black Magic Probe Documentati
 
 ---
 
-If you enjoyed the article, hit recommend! Follow me to know about my future projects. Thanks to [this article](http://embdev.net/articles/STM_Discovery_as_Black_Magic_Probe#Building_Firmware_for_ST_Link_V2_Clones_and_Flash_Using_Two_Cheap_Clones) for getting me up and running with the above steps. It is based on work by [Roger Clark](https://github.com/rogerclarkmelbourne).
+Follow me to know about my future projects. Thanks to [this article](http://embdev.net/articles/STM_Discovery_as_Black_Magic_Probe#Building_Firmware_for_ST_Link_V2_Clones_and_Flash_Using_Two_Cheap_Clones) for getting me up and running with the above steps. It is based on work by [Roger Clark](https://github.com/rogerclarkmelbourne).

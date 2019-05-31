@@ -1,8 +1,8 @@
 ---
-title: "Jeff Bezos: A Review."
-description: "Amazon launched the new line of Kindle reading devices and Kindle Fire tablets yesterday. It was a great unveiling: product demos, ship dates and unbelievable pricing. Gruber is impressed. Though…"
-date: "2016-02-17T17:11:05.396Z"
-categories: 
+title: 'Jeff Bezos: A Review.'
+description: 'Amazon launched the new line of Kindle reading devices and Kindle Fire tablets yesterday. It was a great unveiling: product demos, ship dates and unbelievable pricing. Gruber is impressed. Though…'
+date: '2016-02-17T17:11:05.396Z'
+categories:
   - Jeff Bezos
   - Steve Jobs
   - Presentation Tips
@@ -34,7 +34,3 @@ This is a man who has been inspired so deeply, that it shows. Steve took Apple f
 ![](./asset-6.jpg)![](./asset-7.jpg)
 
 Kudos to Jeff for the amazing company he is building with Amazon. Kudos to Steve for inspiring an entire generation.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/31047079985/jeff-bezos-a-review)_._

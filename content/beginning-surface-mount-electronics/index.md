@@ -1,8 +1,8 @@
 ---
-title: "Beginning Surface Mount Electronics"
-description: "I wanted to start with SMD (Surface Mount Devices). These things are brothers and sisters of the very familiar ‘through hole’ components we use in our engineering courses. But these through hole…"
-date: "2016-02-17T16:20:53.061Z"
-categories: 
+title: 'Beginning Surface Mount Electronics'
+description: 'I wanted to start with SMD (Surface Mount Devices). These things are brothers and sisters of the very familiar ‘through hole’ components we use in our engineering courses. But these through hole…'
+date: '2016-02-17T16:20:53.061Z'
+categories:
   - Soldering
   - Electronics
   - DIY
@@ -32,7 +32,3 @@ These things are so small that you get them in minimum quantities of 100!
 Here’s the schematic:
 
 ![](./asset-2.jpg)
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/583943512/beginning-surface-mount-electronics)_._

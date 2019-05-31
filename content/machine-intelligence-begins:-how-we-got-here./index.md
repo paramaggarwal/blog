@@ -1,8 +1,8 @@
 ---
-title: "Machine Intelligence Begins: How We Got Here."
-description: "We could start connecting the dots as far back as 1943 with The World War II, but movies like Enigma and The Imitation Game have already done that for us. We know that war is what gave us…"
-date: "2016-03-25T17:46:55.308Z"
-categories: 
+title: 'Machine Intelligence Begins: How We Got Here.'
+description: 'We could start connecting the dots as far back as 1943 with The World War II, but movies like Enigma and The Imitation Game have already done that for us. We know that war is what gave us…'
+date: '2016-03-25T17:46:55.308Z'
+categories:
   - Artificial Intelligence
   - Machine Learning
   - Future
@@ -23,7 +23,7 @@ The business model of this age was to figure out a way to apply the internet to 
 
 The first wave of these internet companies would be AOL, Yahoo, MSN and others. They took what people already did, and gave it back to the people only this time through a web browser running on a computer.
 
-They did well, but only in places where the internet and the computer along with its web browser was accessible. With a computer costing in the $600–1000 range, it was not so accessible in the eastern part of the world.
+They did well, but only in places where the internet and the computer along with its web browser was accessible. With a computer costing in the \$600–1000 range, it was not so accessible in the eastern part of the world.
 
 But still this proved that buying a computer with a web browser is something useful to many of us, and caused the price of computers and their parts to go down each year. Until it was cheap enough to actually fit inside a phone-sized device.
 
@@ -49,7 +49,7 @@ _This is today._
 
 #### Machine Intelligence + X
 
-All this while, as the computer trend and the smartphone trend churned, computing power got cheaper every year. It got so cheap that running a farm of computers put into a room became really cheap and companies began selling conceptual units of _computing_ separately_._ Now you could buy processing, memory and storage as separate pieces, even though practically a computer consists of all these things.
+All this while, as the computer trend and the smartphone trend churned, computing power got cheaper every year. It got so cheap that running a farm of computers put into a room became really cheap and companies began selling conceptual units of _computing_ separately*.* Now you could buy processing, memory and storage as separate pieces, even though practically a computer consists of all these things.
 
 The cloud was born. With the click of a button you could order for yourself a virtual computer that had arbitrary processing, memory and storage capability — no physical computer would ever have such a specification. But the cloud made it possible for companies to rent a virtual one for themselves.
 
@@ -91,10 +91,4 @@ It’s like it has eyes and ears on what we want and need, fortunately not liter
 
 Many movies depict machine intelligence with robots — complete with eyes and ears and hands and legs — this will simply not be the case.
 
-_Machine Intelligence Begins_ — and it is not like in the movies.
-
----
-
-If you enjoyed this article, please hit 💚 recommend!
-
-You can follow me on Twitter @paramaggarwal.
+*Machine Intelligence Begins* — and it is not like in the movies.

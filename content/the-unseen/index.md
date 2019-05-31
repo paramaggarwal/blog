@@ -1,8 +1,8 @@
 ---
-title: "The Unseen"
-description: "You hurried past a person carrying his food, but you didn’t see that you almost made him drop it. It’s the unseen. Your supposedly funny joke hurt someone, but you didn’t see the faintest of the…"
-date: "2016-02-20T14:04:16.316Z"
-categories: 
+title: 'The Unseen'
+description: 'You hurried past a person carrying his food, but you didn’t see that you almost made him drop it. It’s the unseen. Your supposedly funny joke hurt someone, but you didn’t see the faintest of the…'
+date: '2016-02-20T14:04:16.316Z'
+categories:
   - Life Lessons
   - Self Improvement
 
@@ -23,7 +23,3 @@ Your supposedly funny joke hurt someone, but you didn’t see the faintest of th
 Everyday, there are things that you miss.
 
 See.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/49084895679/the-unseen)_._

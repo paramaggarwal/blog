@@ -1,8 +1,8 @@
 ---
-title: "Myntra: A Front-end Tech Story"
-description: "When I joined Myntra in 2013, our tech stack was a monolith of PHP speaking directly to MySQL. Much respect to this stack, it got us to a place where we could consider re-writing and re-architecting…"
-date: "2017-01-24T14:49:36.205Z"
-categories: 
+title: 'Myntra: A Front-end Tech Story'
+description: 'When I joined Myntra in 2013, our tech stack was a monolith of PHP speaking directly to MySQL. Much respect to this stack, it got us to a place where we could consider re-writing and re-architecting…'
+date: '2017-01-24T14:49:36.205Z'
+categories:
   - React Native
   - React
   - Software Engineering
@@ -60,7 +60,3 @@ We persevered. Today, more than half the iOS app and critical screens of the And
 ### Today
 
 So, here we are today. Three terrifying migrations. All completely worth it. _Some things are worth doing._
-
----
-
-Where do we go from here? Come join us, and be a part of the next wave.

@@ -1,8 +1,8 @@
 ---
-title: "Music Publishing"
-description: "As you read this, ever more information is being converted to the digital form so that now it is easier than ever to duplicate intellectual property and charging money for it is becoming difficult…"
-date: "2016-02-19T16:56:15.949Z"
-categories: 
+title: 'Music Publishing'
+description: 'As you read this, ever more information is being converted to the digital form so that now it is easier than ever to duplicate intellectual property and charging money for it is becoming difficult…'
+date: '2016-02-19T16:56:15.949Z'
+categories:
   - Apple
   - Music Industry
   - iTunes
@@ -44,7 +44,3 @@ The music industry has learnt that being friendly to your listeners and caring f
 3.  Make music easy to purchase not only in the US, but worldwide.
 
 The crux of the fact is to make music easily discoverable, buyable and then easily shareable for further discovery. Music publishers need to adapt the new viral marketing strategy instead of building a wall between listeners to prevent thieves at the cost of innocent paying buyers.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/749883690/music-publishing)_._

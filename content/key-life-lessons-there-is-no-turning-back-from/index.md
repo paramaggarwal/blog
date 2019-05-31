@@ -1,8 +1,8 @@
 ---
-title: "Key Life Lessons There is No Turning Back From"
-description: "It starts with a dream. The one we see with open eyes, and the one we see with closed eyes. But we are afraid; afraid to let them be anything other than just dreams. There is this fear — can we make…"
-date: "2016-02-25T20:15:19.614Z"
-categories: 
+title: 'Key Life Lessons There is No Turning Back From'
+description: 'It starts with a dream. The one we see with open eyes, and the one we see with closed eyes. But we are afraid; afraid to let them be anything other than just dreams. There is this fear — can we make…'
+date: '2016-02-25T20:15:19.614Z'
+categories:
   - Entrepreneurship
   - Life Lessons
   - Starting Up
@@ -72,7 +72,5 @@ One day you look back and you realize how far you have come. But the dreams that
 And it repeats. The joy is in the process itself.
 
 ---
-
-_If you enjoyed this post, please hit recommend!_
 
 _“There is only a vision of how mankind should be, and the relentless resolve to make it so.” is a quote by_ [_Bret Victor_](http://worrydream.com/)_. Rest all quotes from the author himself._

@@ -1,8 +1,8 @@
 ---
-title: "Entrepreneurial Independence"
-description: "Paul Graham’s thoughts on people starting up for the first time. “Entrepreneurial Independence” is published by Param Aggarwal"
-date: "2016-02-22T16:05:31.874Z"
-categories: 
+title: 'Entrepreneurial Independence'
+description: 'Paul Graham’s thoughts on people starting up for the first time. “Entrepreneurial Independence” is published by Param Aggarwal'
+date: '2016-02-22T16:05:31.874Z'
+categories:
   - Startup
   - Paul Graham
   - Entrepreneurship

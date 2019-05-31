@@ -1,8 +1,8 @@
 ---
-title: "Fix It Once"
-description: "A person fixing issues is generally valued more than someone who is anticipating them before hand — or better — anticipating them early enough to not introduce them into the system itself. It’s…"
-date: "2017-01-28T13:05:51.268Z"
-categories: 
+title: 'Fix It Once'
+description: 'A person fixing issues is generally valued more than someone who is anticipating them before hand — or better — anticipating them early enough to not introduce them into the system itself. It’s…'
+date: '2017-01-28T13:05:51.268Z'
+categories:
   - Entrepreneurship
   - Design Thinking
   - Software Development

@@ -1,8 +1,8 @@
 ---
-title: "Using an LED Matrix Module"
-description: "Lets talk about this display first. It is a matrix of 8x8 Red LEDs with all their anodes connected together. So the anodes of each column of LED are given as 8 pins. And the cathodes of each row are…"
-date: "2016-02-20T14:36:27.466Z"
-categories: 
+title: 'Using an LED Matrix Module'
+description: 'Lets talk about this display first. It is a matrix of 8x8 Red LEDs with all their anodes connected together. So the anodes of each column of LED are given as 8 pins. And the cathodes of each row are…'
+date: '2016-02-20T14:36:27.466Z'
+categories:
   - Arduino
   - Embedded Systems
   - DIY Projects
@@ -72,14 +72,14 @@ void drawImage(byte * matrix) {
  for(int i=0; i<8; i++) {
 
     //Send the data of the columns.
-    for(int j=0; j<8; j++) { 
+    for(int j=0; j<8; j++) {
       digitalWrite(clockPin, LOW);
       digitalWrite(dataPin, (matrix[i]) & (1<<j) );
       digitalWrite(clockPin, HIGH);
     }
 
     // Select column by column.
-    for(int j=7; j>=0; j--) { 
+    for(int j=7; j>=0; j--) {
       digitalWrite(clockPin, LOW);
       digitalWrite(dataPin, (~(1<<i)) & (1<<j) );
       digitalWrite(clockPin, HIGH);
@@ -88,7 +88,7 @@ void drawImage(byte * matrix) {
     // Latch the data to the output pins of the IC.
     digitalWrite(latchPin,LOW);
     digitalWrite(latchPin,HIGH);
-  } 
+  }
 }
 ```
 
@@ -106,7 +106,3 @@ Parts used in this tutorial:
 2.  [USB Cable](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FUSB-Cable-A-to-B--for-Arduino--id-36712.html&t=MTEzNDNlZjM0YjRkZWY4ZmNmNDQyZmE4ZDYwYmM1Mjk3ODRkMTA4OSxWZjRwYXBVeA%3D%3D)
 3.  [Feemo Matrix Adapters](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FFeemo-Matrix-Adapter-id-47758.html&t=OTJhNGEwODYzNDM2MGQ3MTJkY2ZiZTE3MTk5NjdlNmMzZGFiZDUzNixWZjRwYXBVeA%3D%3D)
 4.  [Jumper Wires](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FJumper-Wires---Pack-of-10-id-36704.html&t=NjkyZTE3NjE0YWFmOTRkYzk5NjJiNTE4OTRiZGJiZTUzMzYwYWYwMCxWZjRwYXBVeA%3D%3D)
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/35136388954/using-an-led-matrix-module)_._

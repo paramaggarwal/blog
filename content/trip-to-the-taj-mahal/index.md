@@ -1,8 +1,8 @@
 ---
-title: "Trip to The Taj Mahal"
-description: "These are the fountains in the garden leading upto the Taj. They say that these are the same since the Taj. I like the colour of the water. On both sides of the Taj were these similar structures. One…"
-date: "2016-02-17T17:03:05.959Z"
-categories: 
+title: 'Trip to The Taj Mahal'
+description: 'These are the fountains in the garden leading upto the Taj. They say that these are the same since the Taj. I like the colour of the water. On both sides of the Taj were these similar structures. One…'
+date: '2016-02-17T17:03:05.959Z'
+categories:
   - Taj Mahal
   - Photo Essay
 
@@ -51,7 +51,3 @@ The flooring was very cool because of the marble. It felt nice here.
 ![](./asset-10.jpg)
 
 So much marble. So much hard work. So beautiful.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/28919389976/trip-to-the-taj-mahal)_._

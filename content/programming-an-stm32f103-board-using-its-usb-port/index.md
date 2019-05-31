@@ -1,8 +1,8 @@
 ---
-title: "Programming an STM32F103 board using its USB port (Blue Pill)"
-description: "The bare STM32F103 board only comes with a default USART boot loader. Even though there is a USB port on the board, you cannot use it to program it because it does not have the relevant bootloader. I…"
-date: "2016-12-10T21:28:10.149Z"
-categories: 
+title: 'Programming an STM32F103 board using its USB port (Blue Pill)'
+description: 'The bare STM32F103 board only comes with a default USART boot loader. Even though there is a USB port on the board, you cannot use it to program it because it does not have the relevant bootloader. I…'
+date: '2016-12-10T21:28:10.149Z'
+categories:
   - Arduino
   - Physical Computing
   - Microcontrollers
@@ -12,13 +12,13 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/programming-an-stm32f103-board-using-usb-port-blue-pill-953cec0dbc86
 ---
 
-## While the $2 board is cheap and very commonly found, getting up and running is slightly convoluted. Here is a short guide on how to set it up to program directly from USB.
+## While the \$2 board is cheap and very commonly found, getting up and running is slightly convoluted. Here is a short guide on how to set it up to program directly from USB.
 
 ![A generic $2 STM32F103 board on AliExpress (aka Blue Pill)](./asset-1.jpeg)
 
 The bare STM32F103 board only comes with a default USART boot loader. Even though there is a USB port on the board, you cannot use it to program it because it does not have the relevant bootloader.
 
-I got my board for less than $2 from [Advanced Tech on AliExpress](https://www.aliexpress.com/item/STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-Forarduino/1748445137.html?spm=2114.13010608.0.0.lSeZxD). We need to use a simple USB to UART converter to program the board via USART with a USB boot loader, and then we can get back to programming it directly via USB.
+I got my board for less than \$2 from [Advanced Tech on AliExpress](https://www.aliexpress.com/item/STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-Forarduino/1748445137.html?spm=2114.13010608.0.0.lSeZxD). We need to use a simple USB to UART converter to program the board via USART with a USB boot loader, and then we can get back to programming it directly via USB.
 
 First, connect your USB to Serial/UART/TTL Converter like this:
 
@@ -42,7 +42,7 @@ You might need to hit reset button before you run the above to get it to work. I
 
 Now we are ready to program via USB. Disconnect everything and use the USB to connect. Verify that your computer recognises the device using `dmesg` or by going to About This Mac > System Report > USB. You should see a device as Maple (The hardware and software that we get to work on above are all thanks to the excellent folks at [Maple Labs](http://www.leaflabs.com/maple).)
 
-Now in Arduino, install the ‘Arduino Due’ hardware using the Boards Manager (search online if you are not familiar with this step). Also, download [Arduino\_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32) and place in your Arduino hardware directory. See these [installation steps](https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Installation) for more info.
+Now in Arduino, install the ‘Arduino Due’ hardware using the Boards Manager (search online if you are not familiar with this step). Also, download [Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32) and place in your Arduino hardware directory. See these [installation steps](https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Installation) for more info.
 
 Now after restarting the IDE, you should be able to select ‘Generic STM32F103C series’ in the list of boards and the STM32duino bootloader as the upload method.
 
@@ -54,4 +54,4 @@ Now you should be able to reset the board again and see the LED blink every seco
 
 ---
 
-If you enjoyed the article, hit recommend! Follow me to know about my future projects. This post is based on work by [Roger Clark](https://github.com/rogerclarkmelbourne).
+This post is based on work by [Roger Clark](https://github.com/rogerclarkmelbourne).

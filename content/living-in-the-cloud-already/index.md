@@ -1,8 +1,8 @@
 ---
-title: "Living in the cloud already"
-description: "Fail? So, you got less than 10 files on the system and all the other backed up to the cloud? What will you do during an emergency? What will you do if you lost your phone for a few days? With the…"
-date: "2016-02-19T16:45:05.260Z"
-categories: 
+title: 'Living in the cloud already'
+description: 'Fail? So, you got less than 10 files on the system and all the other backed up to the cloud? What will you do during an emergency? What will you do if you lost your phone for a few days? With the…'
+date: '2016-02-19T16:45:05.260Z'
+categories:
   - Cloud Computing
   - Musings
 
@@ -23,7 +23,3 @@ Our memory is more like address pointers now. We just remember where each of tho
 Alas, another way in which tech is drowning the true human ability to remember and forget things. Yes, forgetting is a good thing too. Remember?
 
 (Post inspired by [My Head is in the Cloud](http://t.umblr.com/redirect?z=http%3A%2F%2Ftweetagewasteland.com%2F2010%2F03%2Fmy-head-is-in-the-cloud%2F&t=NzgwMDk1YzhjMGI1MjUyNWQ4YWE0ODY4M2Q5MDBlZmQ2NDljMTYxYixaU3JnQkpQWA%3D%3D))
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/584043122/living-in-the-cloud-already)_._

@@ -1,8 +1,8 @@
 ---
-title: "A Letter of Joy"
-description: "What? Where’s the ‘because’ to it. I can’t find the reason in the text. I can’t believe that you are happy till you tell me what made you so happy. What is that new thing you got. Who is that person…"
-date: "2016-02-16T13:35:36.738Z"
-categories: 
+title: 'A Letter of Joy'
+description: 'What? Where’s the ‘because’ to it. I can’t find the reason in the text. I can’t believe that you are happy till you tell me what made you so happy. What is that new thing you got. Who is that person…'
+date: '2016-02-16T13:35:36.738Z'
+categories:
   - Life Lessons
   - Self Improvement
 
@@ -35,7 +35,3 @@ I have ignored all these things that might have depressed me endlessly, I have s
 And that is why I am full of joy. Now.
 
 \- Param Aggarwal
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/1177818667/a-letter-of-joy)_._

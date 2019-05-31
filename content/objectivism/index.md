@@ -1,8 +1,8 @@
 ---
-title: "Objectivism"
-description: "I am currently reading ‘The Fountainhead’ by Ayn Rand, and can’t help but feel that it’s the philosophy I myself believe in. She puts forth a way of living life. A philosophy to live by. To express…"
-date: "2016-02-16T13:41:05.973Z"
-categories: 
+title: 'Objectivism'
+description: 'I am currently reading ‘The Fountainhead’ by Ayn Rand, and can’t help but feel that it’s the philosophy I myself believe in. She puts forth a way of living life. A philosophy to live by. To express…'
+date: '2016-02-16T13:41:05.973Z'
+categories:
   - Entrepreneurship
   - Ayn Rand
   - Objectivism
@@ -24,7 +24,3 @@ The book is about architecture, and an architect who envisions buildings in a wa
 When he asks why they don’t commission the building he has designed, the client says that they want a traditional building because other people would like it. Because thats how its always been. Because you can’t play with tradition. Never would they say, that they like traditional buildings because that’s what they believe in. They have no opinion of their own. Empty shells, full of other people’s opinions who were themselves empty shells. Doing things just because they feel that’s what people expect. Worrying what other people will say or what other people believe or what other people do.
 
 Empty. Shells. Objectivism is reasoning everything except your heart.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/2843688779/objectivism)_._

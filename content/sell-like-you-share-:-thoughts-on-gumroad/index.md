@@ -1,8 +1,8 @@
 ---
-title: "Sell Like You Share : Thoughts on Gumroad"
-description: "Came across Gumroad the other day. It is based on the idea that selling should be as way as sharing. Founder Sahil Lavingia, with an impressive background of building his own apps like Dayta and an…"
-date: "2016-02-20T14:02:09.635Z"
-categories: 
+title: 'Sell Like You Share : Thoughts on Gumroad'
+description: 'Came across Gumroad the other day. It is based on the idea that selling should be as way as sharing. Founder Sahil Lavingia, with an impressive background of building his own apps like Dayta and an…'
+date: '2016-02-20T14:02:09.635Z'
+categories:
   - Selling
   - Ecommerce
   - Gumroad
@@ -24,7 +24,3 @@ Is Gumroad a payment service? A distribution service? A store-front. Gumroad say
 Isn’t it another middle-man you say. Get this, it doesn’t even have an ‘Explore’ page. You simply cannot find out what is being sold using it.
 
 Gumroad has a simple premise. Make it dead simple to sell.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/28898291376/sell-like-you-share-thoughts-on-gumroad)_._

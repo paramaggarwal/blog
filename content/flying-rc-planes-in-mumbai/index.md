@@ -1,8 +1,8 @@
 ---
-title: "Flying RC Planes in Mumbai"
-description: "One week, me and a friend went along to Mahalaxmi Race Course in Mumbai. Every weekend hobbyists get together and fly remote-controlled planes. These are not the measly battery operated kind. They…"
-date: "2016-02-20T14:07:58.422Z"
-categories: 
+title: 'Flying RC Planes in Mumbai'
+description: 'One week, me and a friend went along to Mahalaxmi Race Course in Mumbai. Every weekend hobbyists get together and fly remote-controlled planes. These are not the measly battery operated kind. They…'
+date: '2016-02-20T14:07:58.422Z'
+categories:
   - Mumbai
   - Remote Control
   - Planes
@@ -32,7 +32,3 @@ Now this was a surprise. One of these was actually powered by a jet engine. A re
 <Embed src="https://player.vimeo.com/video/47092511" height={640} width={480} />
 
 It was also able to go straight up. Crazy.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/28917252063/people-flying-rc-planes)_._

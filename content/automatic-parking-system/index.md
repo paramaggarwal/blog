@@ -1,8 +1,8 @@
 ---
-title: "Automatic Parking System"
-description: "My science project in 11th std. made along with my friend Nigel Pais. We had won the second prize for this as part of a science exhibition. This is not exactly automated as such, but what it does is…"
-date: "2016-02-19T16:47:33.493Z"
-categories: 
+title: 'Automatic Parking System'
+description: 'My science project in 11th std. made along with my friend Nigel Pais. We had won the second prize for this as part of a science exhibition. This is not exactly automated as such, but what it does is…'
+date: '2016-02-19T16:47:33.493Z'
+categories:
   - Science Projects
   - Electronics
   - Automation
@@ -46,7 +46,3 @@ From left, the motor to lift the garage door, power supply and the touch sensor 
 Here you can see the proximity sensor at the back of the car, and the alarm system in the middle.
 
 At that time I spent around Rs. 400 for this kit, what I didn’t know then is that the same circuit can be made for under Rs. 50. _I learnt_!
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/584252880/automatic-parking-system)_._

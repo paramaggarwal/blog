@@ -1,8 +1,8 @@
 ---
-title: "B U."
-description: "Be you means firmly believing in what you believe in. Things like telling the truth. Helping people. Keeping your point of view. Be you is jumping into the river even when people say its deep. Doing…"
-date: "2016-02-16T13:38:13.614Z"
-categories: 
+title: 'B U.'
+description: 'Be you means firmly believing in what you believe in. Things like telling the truth. Helping people. Keeping your point of view. Be you is jumping into the river even when people say its deep. Doing…'
+date: '2016-02-16T13:38:13.614Z'
+categories:
   - Self Improvement
   - Life Lessons
 
@@ -29,7 +29,3 @@ Be you is praying to the power that is you.
 Be you is jumping into the river even when people say its deep. Doing what you are passionate about, no matter what.
 
 B U is being yourself.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/1477869360/b-u)_._

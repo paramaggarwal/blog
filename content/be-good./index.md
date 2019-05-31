@@ -1,8 +1,8 @@
 ---
-title: "Be good."
-description: "Imagine yourself in a city you are touring, checking out the local scene. You are hungry, looking for a restaurant. You look around and see people all around, a busy bustling place. On both sides of…"
-date: "2016-02-16T13:39:28.545Z"
-categories: 
+title: 'Be good.'
+description: 'Imagine yourself in a city you are touring, checking out the local scene. You are hungry, looking for a restaurant. You look around and see people all around, a busy bustling place. On both sides of…'
+date: '2016-02-16T13:39:28.545Z'
+categories:
   - Business Strategy
   - Life Lessons
 
@@ -31,7 +31,3 @@ You go and thank the restaurant owner. He says, “Welcome. But I don’t see an
 To which you, the wise person replies, “Look, I had gone there on my first day. I am never going there again. That guy is getting customers because people simply don’t know any better. But the day these people find you, they won’t leave you. And that’s a true business; building a relationship with the customer and keeping them happy. You are slowing building up loyalty in customers, that guy is simply getting some lost tourists. He is simply not growing.” You go back home and recommend them to everyone.
 
 Don’t think that being good, means people will find you instantly. It means that when they do find you, they will stay. Meanwhile, the other cunning people will come and go, never to stay long enough.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/2131549156/be-good)_._

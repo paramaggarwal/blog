@@ -1,8 +1,8 @@
 ---
-title: "ANTZ at IIT-B : Failed, but learnt."
-description: "ANTZ is an autonomous competition that was held at Techfest 2010 at IIT Bombay. It was the first time a swarm robotics competition was held in India at this level. It replaced the famous Micromouse…"
-date: "2016-02-20T14:00:00.837Z"
-categories: 
+title: 'ANTZ at IIT-B : Failed, but learnt.'
+description: 'ANTZ is an autonomous competition that was held at Techfest 2010 at IIT Bombay. It was the first time a swarm robotics competition was held in India at this level. It replaced the famous Micromouse…'
+date: '2016-02-20T14:00:00.837Z'
+categories:
   - Techfest
   - Engineering
   - Arduino
@@ -47,32 +47,28 @@ The final flaw:
 
 Lessons learnt:
 
--   Start early
--   _Plan_ and make the right decisions
--   Keep pace
--   There _has_ to be a team leader who makes the final decision. Voting doesn’t work.
--   Code should be easily debuggable, customizable and understandable by all team members.
--   Well commented code is not just for good marks. Its practical.
+- Start early
+- _Plan_ and make the right decisions
+- Keep pace
+- There _has_ to be a team leader who makes the final decision. Voting doesn’t work.
+- Code should be easily debuggable, customizable and understandable by all team members.
+- Well commented code is not just for good marks. Its practical.
 
 What we got right:
 
--   We used good quality parts, hence we faced less hardware issues.
--   We did start early, though not early enough.
--   Our hardware was one of the best. But we left too little time for software.
+- We used good quality parts, hence we faced less hardware issues.
+- We did start early, though not early enough.
+- Our hardware was one of the best. But we left too little time for software.
 
 _Ingredients_ per bot:
 
--   One Arduino
--   Two Easydriver stepper motor drivers
--   One Sharp IR sensor
--   Two stepper motors
--   One Nordic nRF24L01+ wireless transceiver
--   Four Li-poly boards
+- One Arduino
+- Two Easydriver stepper motor drivers
+- One Sharp IR sensor
+- Two stepper motors
+- One Nordic nRF24L01+ wireless transceiver
+- Four Li-poly boards
 
 ![](./asset-6.jpg)
 
 The tools of the trade. Do we need a minimalism theory for electronics?
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/584352799/antz-at-iit-b-failed-but-learnt)_._

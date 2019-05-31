@@ -1,8 +1,8 @@
 ---
-title: "Mastering layouts with UICollectionView"
-description: "Any time a collection of items needs to be displayed, UICollectionView should be your go-to layout solution. Introduced in iOS 6, UICollectionView is a more powerful extension of UITableView. While a…"
-date: "2016-02-13T09:39:36.183Z"
-categories: 
+title: 'Mastering layouts with UICollectionView'
+description: 'Any time a collection of items needs to be displayed, UICollectionView should be your go-to layout solution. Introduced in iOS 6, UICollectionView is a more powerful extension of UITableView. While a…'
+date: '2016-02-13T09:39:36.183Z'
+categories:
   - Programming
   - iOS App Development
   - Myntra
@@ -48,7 +48,3 @@ Everytime the collection view scrolls, it recalculates these attributes. And fin
 What you see are two sections, and the first section has the _Buy Now_ bar as a section footer. Hence it remains on screen while you are viewing the first section.
 
 So that wraps up this post! Head over to [MYNStickyFlowLayout on Github](http://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fmyntra%2FMYNStickyFlowLayout&t=NWUwYTBiNjFlY2Q5ZTk3Y2IzMDYwYWFmZTc1OWUyYTFkZDgyYTMwZSxsZEpTQ1JKdQ%3D%3D) and try it out with the included example Xcode project. It is avaliable as a _CocoaPod_ with the same name — MYNSticklyFlowLayout. Read the documentation on the repository to learn how you can use it in your project. Good luck!
-
----
-
-_The next Myntra Hackday is scheduled for April 2016. Follow Myntra Engineering on Twitter to be in the know!_ [_@myntra\_engg_](https://twitter.com/myntra_engg)

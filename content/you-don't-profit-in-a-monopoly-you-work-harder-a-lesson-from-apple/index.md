@@ -1,8 +1,8 @@
 ---
-title: "You don’t profit in a monopoly, you work harder : A lesson from Apple"
-description: "Every high school pass out knows this equation. To maximize profit, you can either maximize the profit per device sold or you can maximize the number of devices sold. Profit has the tendency to stay…"
-date: "2016-02-16T13:42:27.105Z"
-categories: 
+title: 'You don’t profit in a monopoly, you work harder : A lesson from Apple'
+description: 'Every high school pass out knows this equation. To maximize profit, you can either maximize the profit per device sold or you can maximize the number of devices sold. Profit has the tendency to stay…'
+date: '2016-02-16T13:42:27.105Z'
+categories:
   - Apple
   - Startup
 
@@ -39,7 +39,3 @@ If Apple had learnt nothing from the PC era, and had priced the iPad at an exorb
 A low price made it very lucrative to prospective buyers who didn’t have much idea how they were going to use this entirely new class of device. It was safe to try out this device solely on its ‘cool’ factor.
 
 It is very interesting to see these traditional economics failing to apply as we enter this amazing new post PC era, and as Apple shapes the future of the tablet era, or more appropriately the iPad era.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/6004326725/you-dont-profit-in-a-monopoly-you-work-harder)_._

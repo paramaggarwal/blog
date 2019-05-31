@@ -1,8 +1,8 @@
 ---
-title: "Switching a Light Bulb with an Arduino"
-description: "I had wanted to try this out since long. The most basic way was to use a simple relay. When the coil is energised, it pulls the contact towards itself, and establishes a connection so that the bulb…"
-date: "2016-02-17T17:06:45.612Z"
-categories: 
+title: 'Switching a Light Bulb with an Arduino'
+description: 'I had wanted to try this out since long. The most basic way was to use a simple relay. When the coil is energised, it pulls the contact towards itself, and establishes a connection so that the bulb…'
+date: '2016-02-17T17:06:45.612Z'
+categories:
   - IoT
   - DIY Projects
   - Arduino
@@ -52,7 +52,3 @@ The circuit above, put together on a general use board.
 Again, take extreme care and cover all high voltage areas with safety tape.
 
 Now its just a matter of turning on the LED inside the opto-isolator using any device like an Arduino. Fairly simple. While the Arduino thinks it is controlling an LED, it is actually controlling a huge 60W bulb!
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/29066939241/switching-a-light-bulb-with-an-arduino)_._

@@ -1,8 +1,8 @@
 ---
-title: "How to be Right by Being Wrong"
-description: "I take joy in being wrong sometimes — it’s my gateway to coming out as right eventually. By being wrong, I put myself in a vulnerable position and hence at the receiving end of a lot of information —…"
-date: "2017-12-17T08:21:22.503Z"
-categories: 
+title: 'How to be Right by Being Wrong'
+description: 'I take joy in being wrong sometimes — it’s my gateway to coming out as right eventually. By being wrong, I put myself in a vulnerable position and hence at the receiving end of a lot of information —…'
+date: '2017-12-17T08:21:22.503Z'
+categories:
   - Life Lessons
   - Political Correctness
   - Life Hacking
@@ -47,5 +47,3 @@ Hence, while a lot of people out there are concerned with being always right and
 It’s about starting from scratch vs. starting with a hypothesis. By always having something on the table you give others the option to shape the discussion and everyone learns.
 
 Next time you are in a discussion, don’t be afraid of contributing the nose to the sculpture on the table —even if you immediately know you did it wrong, someone will fix it for you, but if you never contribute then it might never exist.
-
----

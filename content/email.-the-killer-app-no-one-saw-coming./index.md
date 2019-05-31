@@ -1,8 +1,8 @@
 ---
-title: "Email. The killer app no one saw coming."
-description: "And still doesn’t. “Email. The killer app no one saw coming.” is published by Param Aggarwal"
-date: "2016-02-19T09:35:50.435Z"
-categories: 
+title: 'Email. The killer app no one saw coming.'
+description: 'And still doesn’t. “Email. The killer app no one saw coming.” is published by Param Aggarwal'
+date: '2016-02-19T09:35:50.435Z'
+categories:
   - Disruptive Innovation
   - Email
 
@@ -23,10 +23,6 @@ canonicalLink: https://medium.com/@paramaggarwal/email-the-killer-app-no-one-saw
 7.  The first read later app.
 8.  The first file transfer app.
 9.  The first backup system.
-10.  The first photo sharing app.
+10. The first photo sharing app.
 
-All that and more. With e_mail_.
-
----
-
-_If this got you thinking, hit recommend!_
+All that and more. With e*mail*.

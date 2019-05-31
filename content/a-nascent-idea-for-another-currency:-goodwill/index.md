@@ -1,8 +1,8 @@
 ---
-title: "A nascent idea for another currency: Goodwill"
-description: "First there was the barter system. The advantage: you can’t have infinite goods and most goods perished if not used or lost value. The disadvantage: difficult to store most goods and difficult to…"
-date: "2016-02-19T16:46:10.668Z"
-categories: 
+title: 'A nascent idea for another currency: Goodwill'
+description: 'First there was the barter system. The advantage: you can’t have infinite goods and most goods perished if not used or lost value. The disadvantage: difficult to store most goods and difficult to…'
+date: '2016-02-19T16:46:10.668Z'
+categories:
   - Musings
   - Thought Experiment
 
@@ -23,7 +23,3 @@ It sounds quite abstract and even I am not fully convinced with this idea. The f
 The currency of this new goodwill system would be : “thank you” and “I appreciate that.” Currenty there is no way to really thank someone rather than giving money.
 
 The first drawback being that it is difficult to value goodwill in terms of money. Just like you cannot measure the value of the employees in a corporation and people are doing research to be able to measure them in terms of money and show them as ‘assets’ in the balance sheet.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/584054424/an-nascent-idea-for-another-currency-goodwill)_._

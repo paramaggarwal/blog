@@ -1,8 +1,8 @@
 ---
-title: "Building a WiFi Twitter Display: Scrolling Tweets"
-description: "In the previous post — Combining multiple LED matrix modules we explored the use of three LED matrix displays to show scrolling text. But the text was pre-programmed in the code, and hence was not of…"
-date: "2016-02-20T15:06:08.646Z"
-categories: 
+title: 'Building a WiFi Twitter Display: Scrolling Tweets'
+description: 'In the previous post — Combining multiple LED matrix modules we explored the use of three LED matrix displays to show scrolling text. But the text was pre-programmed in the code, and hence was not of…'
+date: '2016-02-20T15:06:08.646Z'
+categories:
   - DIY Projects
   - Arduino
   - Internet of Things
@@ -73,7 +73,3 @@ Parts used in this tutorial:
 7.  [Sparkfun WiFly Shield](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FWiFly-Shield-id-28907.html&t=Zjc4OTA0MGE5Nzk1MThjNjQ5Yzk5MzgwZmYzZGI2ZmQ1ZTIyZjczNCxzZDZIWGNyNg%3D%3D)
 8.  [Sparkfun LiPower Shield](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FSparkfun-LiPower-Shield-id-28908.html&t=NTVjYTgzYjdiMjBiMjhjMGU4MWE3MWRiMDk3YjhmNDRlMTU2YWUxMyxzZDZIWGNyNg%3D%3D)
 9.  [LiPoly battery](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FPolymer-Lithium-Ion-Battery---1000mAh-id-48189.html&t=MDBhYWRlZDUyYjVjYzkxODQ5NDk2MTk4OTlkY2E5NWY1ZTQ5ZWIwNixzZDZIWGNyNg%3D%3D)
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/35136311465/building-a-wifi-twitter-display-scrolling-tweets)_._

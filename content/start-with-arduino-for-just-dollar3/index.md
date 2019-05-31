@@ -1,8 +1,8 @@
 ---
-title: "Start with Arduino for Just $3"
-description: "The ESP is a 32-bit microcontroller compared to the 8-bit microcontroller on the Arduino, running at 80Mhz compared to 16Mhz on Arduino. Is has around 96 KB of RAM compared to 2 KB RAM on Arduino and…"
-date: "2016-12-08T15:50:23.898Z"
-categories: 
+title: 'Start with Arduino for Just $3'
+description: 'The ESP is a 32-bit microcontroller compared to the 8-bit microcontroller on the Arduino, running at 80Mhz compared to 16Mhz on Arduino. Is has around 96 KB of RAM compared to 2 KB RAM on Arduino and…'
+date: '2016-12-08T15:50:23.898Z'
+categories:
   - Arduino
   - IoT
   - Esp8266
@@ -34,7 +34,3 @@ Supporting links and steps are as follows:
 5.  Setup the ESP8266 board in the Arduino IDE with [these steps](https://github.com/esp8266/Arduino#installing-with-boards-manager).
 6.  Install the [Blynk](http://www.blynk.cc) app and skim the [documentation](http://docs.blynk.cc).
 7.  That’s it! Follow along the next steps in the video to control the LED on the board from your phone!
-
----
-
-_If you enjoyed this tutorial, follow me on Medium and YouTube to know about my future projects._

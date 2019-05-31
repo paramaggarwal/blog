@@ -1,8 +1,8 @@
 ---
-title: "The Unsaid"
-description: "Nobody is going to tell you something, because you didn’t say anything. What is the response to not saying anything? It’s the unsaid. Express when the ears are listening, the eyes are open and the…"
-date: "2016-02-20T14:04:45.598Z"
-categories: 
+title: 'The Unsaid'
+description: 'Nobody is going to tell you something, because you didn’t say anything. What is the response to not saying anything? It’s the unsaid. Express when the ears are listening, the eyes are open and the…'
+date: '2016-02-20T14:04:45.598Z'
+categories:
   - Life Lessons
   - Self Improvement
 
@@ -23,7 +23,3 @@ Express when the ears are listening, the eyes are open and the sun is shining. W
 There are a ton of things that nobody is going to sit you down, and teach you. It’s the unsaid.
 
 Respect the unsaid. Say.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/49084428341/the-unsaid)_._

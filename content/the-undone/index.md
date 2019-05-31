@@ -1,8 +1,8 @@
 ---
-title: "The Undone"
-description: "It was perfectly possible to have found time to meet friends, but you didn’t. It’s the undone. “The Undone” is published by Param Aggarwal"
-date: "2016-02-20T14:03:47.847Z"
-categories: 
+title: 'The Undone'
+description: 'It was perfectly possible to have found time to meet friends, but you didn’t. It’s the undone. “The Undone” is published by Param Aggarwal'
+date: '2016-02-20T14:03:47.847Z'
+categories:
   - Life Lessons
   - Self Improvement
 
@@ -23,7 +23,3 @@ It was a good pasta, you could have let the chef know. It’s the undone.
 Everyday there are things that could have been done, but became the undone.
 
 Do.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/49085317090/the-undone)_._

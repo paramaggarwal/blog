@@ -1,8 +1,8 @@
 ---
-title: "How will we communicate in the future?"
-description: "And it brought to my mind the beauty of physicality. The touch of paper, the smell of the ink. The knowledge that the person who sent it had touched the same paper. The third episode would be…"
-date: "2016-02-16T13:45:09.991Z"
-categories: 
+title: 'How will we communicate in the future?'
+description: 'And it brought to my mind the beauty of physicality. The touch of paper, the smell of the ink. The knowledge that the person who sent it had touched the same paper. The third episode would be…'
+date: '2016-02-16T13:45:09.991Z'
+categories:
   - Future Of Technology
   - Communication
 
@@ -29,7 +29,3 @@ But I do know this:
 “Intelligent electronics has the potential to bring back the lost physicality of the digitized IT world.”
 
 Just thought of this today. I believe this will be the defining idea of my entire career.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/16757655427/the-song-playing-on-the-radio-was-chitti-aayi-re)_._

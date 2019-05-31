@@ -1,8 +1,8 @@
 ---
-title: "Myntra Hackday 2016 is coming soon!"
-description: "The next Myntra Hackday is scheduled for April 2016. Follow Myntra Engineering on Twitter to be in the know! @myntra_engg Hackerramp, Myntra’s first open hackathon happened on the weekend of April…"
-date: "2015-05-12T00:00:00.000Z"
-categories: 
+title: 'Myntra Hackday 2016 is coming soon!'
+description: 'The next Myntra Hackday is scheduled for April 2016. Follow Myntra Engineering on Twitter to be in the know! @myntra_engg Hackerramp, Myntra’s first open hackathon happened on the weekend of April…'
+date: '2015-05-12T00:00:00.000Z'
+categories:
   - Mobile
   - Hackathons
   - Myntra
@@ -11,7 +11,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/myntra-hackday-2016-is-coming-soon-fbe5581480f7
 ---
 
-_The next Myntra Hackday is scheduled for April 2016. Follow Myntra Engineering on Twitter to be in the know!_ [_@myntra\_engg_](https://twitter.com/myntra_engg)
+_The next Myntra Hackday is scheduled for April 2016. Follow Myntra Engineering on Twitter to be in the know!_ [_@myntra_engg_](https://twitter.com/myntra_engg)
 
 ---
 
@@ -33,9 +33,9 @@ Myntra had done a Hackday in the past, but this was the first time we opened to 
 
 We had three talks:
 
--   Shamik Sharma spoke about the new possibilities coming out of the mobile emergence.
--   Punit Soni spoke about his move from US to India and his experience at Google and Motorola.
--   Sunil Pai spoke about recent trends and changes in programming — introducing Reactive Programming to the audience.
+- Shamik Sharma spoke about the new possibilities coming out of the mobile emergence.
+- Punit Soni spoke about his move from US to India and his experience at Google and Motorola.
+- Sunil Pai spoke about recent trends and changes in programming — introducing Reactive Programming to the audience.
 
 ![](./asset-5.jpg)![](./asset-6.jpg)
 
@@ -49,10 +49,10 @@ We had three talks:
 
 We had an amazing panel judge the teams (from left to right):
 
--   Amit Somani — Ex CPO, MakeMyTrip
--   Amod Malviya — CTO, Flipkart
--   Shamik Sharma — CTO, Myntra
--   Pramod Varma — Chief Architect, Unique Identification Authority of India
+- Amit Somani — Ex CPO, MakeMyTrip
+- Amod Malviya — CTO, Flipkart
+- Shamik Sharma — CTO, Myntra
+- Pramod Varma — Chief Architect, Unique Identification Authority of India
 
 ### Prizes
 
@@ -67,4 +67,4 @@ When you have 35 highly-driven teams competing for a prize bucket of 3,00,000 ru
 
 ![](./asset-13.jpg)
 
-Thank you for coming and see you again next year! (Follow Myntra Engineering on Twitter to be in the know! [@myntra\_engg](https://twitter.com/myntra_engg))
+Thank you for coming and see you again next year!

@@ -1,8 +1,8 @@
 ---
-title: "“I don’t know.”"
-description: "When you think you have a problem, start by acknowledging you have a problem. This may seem obvious. It seems that this is what would happen. But it is actually not so. As humans we have this…"
-date: "2016-02-16T13:37:37.757Z"
-categories: 
+title: '“I don’t know.”'
+description: 'When you think you have a problem, start by acknowledging you have a problem. This may seem obvious. It seems that this is what would happen. But it is actually not so. As humans we have this…'
+date: '2016-02-16T13:37:37.757Z'
+categories:
   - Self Improvement
   - Life Lessons
 
@@ -29,7 +29,3 @@ Thats it, your job is over. Its not up to you to bring about this change. You ar
 Change comes itself, just start by answering.
 
 \- Param Aggarwal
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/1278230759/i-dont-know)_._

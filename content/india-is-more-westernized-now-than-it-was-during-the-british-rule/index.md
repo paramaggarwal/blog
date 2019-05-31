@@ -1,8 +1,8 @@
 ---
-title: "India is more westernized now than it was during the British rule"
-description: "Thousands of people have given blood for independence, and hundreds of freedom fighters sacrificed their lives. But the true aim of the Britishers has now been fulfilled, by actually doing nothing…"
-date: "2016-02-20T14:01:39.849Z"
-categories: 
+title: 'India is more westernized now than it was during the British rule'
+description: 'Thousands of people have given blood for independence, and hundreds of freedom fighters sacrificed their lives. But the true aim of the Britishers has now been fulfilled, by actually doing nothing…'
+date: '2016-02-20T14:01:39.849Z'
+categories:
   - Politics
   - Independence
   - Indian History
@@ -24,7 +24,3 @@ Historically also, it had been a land where you could get people to work for you
 Thomas Friedman has rightly noticed this in his book — The World Is Flat. But he being an American, has presented it to the Americans as a threat to their people. At the same time he says that America will still lead and win because it is driven by innovation and creativity. Thats what is important.
 
 When you work for someone else’s idea, you are his slave. Physically or mentally, you are doing the donkey’s work.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/680073981/we-have-westernized-ourselves-much-more-after)_._

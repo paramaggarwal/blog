@@ -1,8 +1,8 @@
 ---
-title: "The App Ecosystem of India (2016)"
-description: "So here are the top 15 apps and which I personally believe are indicative of the app ecosystem. It might be argued that the Play Store top charts would be a better indication given that it has a much…"
-date: "2016-10-23T03:56:20.366Z"
-categories: 
+title: 'The App Ecosystem of India (2016)'
+description: 'So here are the top 15 apps and which I personally believe are indicative of the app ecosystem. It might be argued that the Play Store top charts would be a better indication given that it has a much…'
+date: '2016-10-23T03:56:20.366Z'
+categories:
   - India
   - Mobile Apps
   - Market Research
@@ -28,12 +28,12 @@ Let’s now go through them one by one and understand what is going on.
 7.  **iTunes U**: I’m personally surprised to find this in the charts. The first Apple app on this list. I believe this can be a good sign that certain institutions in education are suggesting students to follow along with the courses here. Another reason I can think of is that students are installing this at the start of their new college year (July) and hence we are seeing this so high up in the charts. (Let me know below if you can think of other reasons.)
 8.  **imo**: I have never heard anyone using this app, but its surprising that a large number of people are using it. What could be the reason?
 9.  **Google Maps**: A necessity. Our second app from Google.
-10.  **Instagram**: Our fourth app from Facebook. And completes the Facebook portfolio of acquired companies. Pause and take notice on how strong the FB portfolio is. Each of their businesses are in the top 10. Extremely strong momentum. This is very popular among the younger generation below 25 or so.
-11.  **Hotstar**: Did I mention the consumer is price-sensitive here? But Hotstar is another video-consumption app from the parent company of Star Plus, a very famous channel here. One can watch movies, live sports and even western series like Game of Thrones. Even though Netflix is available in India, the collection is much more relevant on Hotstar and is more than twice as cheap than Netflix.
-12.  **Amazon:** The original. Flipkart copied the model and brought it to India (the founders were originally Amazon employees in the US.) A few years later, Amazon itself entered the country. Today though Flipkart does more volume/revenue than Amazon, the gap is closing.
-13.  **Uber**: The original. Ola Cabs copied the model and brought it to India. Soon Uber entered India. Again volumes of Ola are higher but the gap is closing here too.
-14.  **Myntra:** An Indian company acquired by Flipkart two years ago. It has a unique model of focusing purely on fashion — hence named a vertical player. While other e-commerce companies are struggling to turn profit, Myntra’s focus on high-margin fashion means that it is the only one on the verge of turning profit.
-15.  **TrueCaller**: Spam detection. A very real need in India.
+10. **Instagram**: Our fourth app from Facebook. And completes the Facebook portfolio of acquired companies. Pause and take notice on how strong the FB portfolio is. Each of their businesses are in the top 10. Extremely strong momentum. This is very popular among the younger generation below 25 or so.
+11. **Hotstar**: Did I mention the consumer is price-sensitive here? But Hotstar is another video-consumption app from the parent company of Star Plus, a very famous channel here. One can watch movies, live sports and even western series like Game of Thrones. Even though Netflix is available in India, the collection is much more relevant on Hotstar and is more than twice as cheap than Netflix.
+12. **Amazon:** The original. Flipkart copied the model and brought it to India (the founders were originally Amazon employees in the US.) A few years later, Amazon itself entered the country. Today though Flipkart does more volume/revenue than Amazon, the gap is closing.
+13. **Uber**: The original. Ola Cabs copied the model and brought it to India. Soon Uber entered India. Again volumes of Ola are higher but the gap is closing here too.
+14. **Myntra:** An Indian company acquired by Flipkart two years ago. It has a unique model of focusing purely on fashion — hence named a vertical player. While other e-commerce companies are struggling to turn profit, Myntra’s focus on high-margin fashion means that it is the only one on the verge of turning profit.
+15. **TrueCaller**: Spam detection. A very real need in India.
 
 So here are the top 15 apps and which I personally believe are indicative of the app ecosystem. It might be argued that the Play Store top charts would be a better indication given that it has a much wider user-base, I believe that looking at the iOS charts helps us see where the higher-earning segment of India is spending their time. Actually, the Play Store charts speak of a similar story:
 
@@ -46,7 +46,3 @@ YouTube comes pre-installed here. MX Player helps play a broader set of video fo
 1.  India went mobile in the last 2 years and now India is coming online on high bandwidth. Video-on-demand is on the cusp of really exploding. We’ll see drop in consumption and installation of satellite-based TV installations as more and more people simply consume media via the internet.
 2.  Facebook is winning. Each of their acquisitions are doing very very well.
 3.  Amazon isn’t letting anyone make a profit, as itself does not make any. Uber is pushing in hard with a more polished experience, while Ola is struggling to maintain its lead. Myntra continues to sing to success.
-
----
-
-_If you enjoyed this article, please hit recommend below! Follow me on @paramaggarwal on Twitter._

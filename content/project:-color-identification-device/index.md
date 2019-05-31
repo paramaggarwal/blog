@@ -1,8 +1,8 @@
 ---
-title: "Project: Color Identification Device"
-description: "As part of our Electronics Instrumentation project at college, a group of four of us, built this little device. Its usability/practicality is arguable, but we enjoyed making it. When we insert any of…"
-date: "2016-02-17T16:33:58.499Z"
-categories: 
+title: 'Project: Color Identification Device'
+description: 'As part of our Electronics Instrumentation project at college, a group of four of us, built this little device. Its usability/practicality is arguable, but we enjoyed making it. When we insert any of…'
+date: '2016-02-17T16:33:58.499Z'
+categories:
   - DIY Projects
   - Thesis
   - Electronics
@@ -52,7 +52,3 @@ The lovely on/off switch!
 <Embed src="https://www.youtube.com/embed/CO32TAsqKUs?feature=oembed" height={393} width={700} />
 
 Now lets just hope we get an A+! Video uploaded on YouTube by my friend Mukul Bharti.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/584437835/color-identification-device-at-iiit)_._

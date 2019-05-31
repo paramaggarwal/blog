@@ -1,8 +1,8 @@
 ---
-title: "Living"
-description: "I came across these amazing rules on how to live life. Worth sharing and remembering. “Living” is published by Param Aggarwal"
-date: "2016-02-16T13:36:44.652Z"
-categories: 
+title: 'Living'
+description: 'I came across these amazing rules on how to live life. Worth sharing and remembering. “Living” is published by Param Aggarwal'
+date: '2016-02-16T13:36:44.652Z'
+categories:
   - Zen
 
 published: true
@@ -20,12 +20,8 @@ I came across these amazing rules on how to live life. Worth sharing and remembe
 7.  Designate time for certain things.
 8.  Devote time to sitting.
 9.  Smile and serve others.
-10.  Make cleaning and cooking become meditation.
-11.  Think about what is necessary.
-12.  Live simply.
+10. Make cleaning and cooking become meditation.
+11. Think about what is necessary.
+12. Live simply.
 
 \- (via Zen Habits — [http://bit.ly/a2goIm](http://t.umblr.com/redirect?z=http%3A%2F%2Fbit.ly%2Fa2goIm&t=ZmVjZWVkNzhiMThmOThiODUwNTBhMTU4ZTliMTFhOWFlOGE4OGQ1YSxWZWhwU3hVdQ%3D%3D))
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/1278080207/living)_._

@@ -1,8 +1,8 @@
 ---
-title: "Selling Shampoo Online is Hard"
-description: "Now, we have to agree that the first method is less convenient and the second method is more convenient in terms of thinking of a product and letting the world know you wish to buy it. Unfortunately…"
-date: "2016-02-19T16:40:01.500Z"
-categories: 
+title: 'Selling Shampoo Online is Hard'
+description: 'Now, we have to agree that the first method is less convenient and the second method is more convenient in terms of thinking of a product and letting the world know you wish to buy it. Unfortunately…'
+date: '2016-02-19T16:40:01.500Z'
+categories:
   - Ecommerce
   - Design Thinking
 
@@ -34,7 +34,3 @@ Now suddenly the act of buying these items has fallen on the easier side of the 
 A concept that fell on the difficult end of the shopping experience has now been switched over to the easier side. A win for the new way of doing things — buying online.
 
 And one more thing. I no longer need to lug those heavy and huge shopping bags home from the mall!
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/30721842337/selling-shampoo-online-is-hard)_._

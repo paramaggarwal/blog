@@ -1,8 +1,8 @@
 ---
-title: "Birds in a Busy City"
-description: "Sankey Tank is actually a lake that has been converted into a tourist attraction. It’s a great place to start your weekend in Bangalore, the IT hub of India. A busy, very busy city. Sankey is a great…"
-date: "2016-02-22T02:57:52.776Z"
-categories: 
+title: 'Birds in a Busy City'
+description: 'Sankey Tank is actually a lake that has been converted into a tourist attraction. It’s a great place to start your weekend in Bangalore, the IT hub of India. A busy, very busy city. Sankey is a great…'
+date: '2016-02-22T02:57:52.776Z'
+categories:
   - Birds
   - Photo Essay
   - Bangalore
@@ -66,5 +66,3 @@ And, off for a jog now!
 _Most photography and videography by me. Special thanks to Rajat Mathur and Neeraj Upadhyay for helping me with these._
 
 _All photos shot using a Canon 600D with Sigma 70–300mm lens at Sankey Tank, Bangalore, India._
-
-_If you enjoyed this post, hit recommend!_

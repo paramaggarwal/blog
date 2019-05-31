@@ -1,8 +1,8 @@
 ---
-title: "Scrolling Tweets — A tiny display for the latest news."
-description: "Yesterday, I finished up building a little module controlled with just 5 wires to display any scrolling text on a matrix display of 64 LEDs. Today, it was time to take it to the next step. Getting…"
-date: "2016-02-17T16:19:51.791Z"
-categories: 
+title: 'Scrolling Tweets — A tiny display for the latest news.'
+description: 'Yesterday, I finished up building a little module controlled with just 5 wires to display any scrolling text on a matrix display of 64 LEDs. Today, it was time to take it to the next step. Getting…'
+date: '2016-02-17T16:19:51.791Z'
+categories:
   - Arduino
   - Embedded Systems
   - DIY Projects
@@ -36,7 +36,3 @@ There is quite a mess of wires now.
 In the process of building it, I also had to build a [tiny application](http://t.umblr.com/redirect?z=http%3A%2F%2Fsimpletwitter.herokuapp.com&t=ZWU1ZTBkODk2YWYxN2ZjMzMzN2RiODhhODRlNzY1Mjc2NTQ2M2ZhNix1Z1ViMG9LaA%3D%3D) which I hosted on Heroku. It’s job is to call the Twitter API and parse the reply into a tiny package which the Arduino can then understand.
 
 Here is the full code on Github: [https://github.com/paramaggarwal/scrollingtweets](http://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fparamaggarwal%2Fscrollingtweets&t=OGQ1MTIxMmY3YjU3MGQ1Y2E5MmVkNmQwYzdiNGM1ODQzOGRmNTRiNCx1Z1ViMG9LaA%3D%3D)
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/28330849923/scrolling-tweets-a-tiny-display-for-the-latest)_._

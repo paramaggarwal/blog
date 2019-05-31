@@ -1,14 +1,8 @@
 ---
-title: "Visiting Windows Phone 7"
-description: "I see six smartphone platforms currently:
- 1. Apple iOS
- 2. Windows Phone 7
- 3. HP WebOS
- 4. Google Android
- 5. Blackberry OS
- 6. Nokia something-something. Windows Phone 7 is the first thing I have…"
-date: "2016-02-16T13:42:59.316Z"
-categories: 
+title: 'Visiting Windows Phone 7'
+description: 'I see six smartphone platforms currently: 1. Apple iOS 2. Windows Phone 7 3. HP WebOS 4. Google Android 5. Blackberry OS 6. Nokia something-something. Windows Phone 7 is the first thing I have…'
+date: '2016-02-16T13:42:59.316Z'
+categories:
   - Design
   - Windows Phone
 
@@ -51,7 +45,3 @@ It’s a good critique of UI design written by usability expert Lukas Mathis. Yo
 And now the next version called ‘Mango’ has more interesting stuff coming that is pretty interesting: [Joe Belfiore shows off Windows Phone Mango on YouTube](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOP30F3ZxTmw&t=ODQyYWYwYmIxYTMxNTU5Y2E4NTMwNTczYzkyMDJiYTUwNmRjNjdlMCwyU2FQMXo1cQ%3D%3D)
 
 I am really impressed with the work Microsoft’s phone division has done. Specifically the design philosophy and ideas. They are not just copying Apple but doing their own thing. It’s so much fun to see and follow such amazing competition.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/6074855053/visiting-windows-phone-7)_._

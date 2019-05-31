@@ -1,8 +1,8 @@
 ---
-title: "Why Large Companies Fail"
-description: "When a company becomes strong, the focus shifts from growing the business to protecting the sales from diminishing. Hence the question changes from how do we increase sales to how do we avoid the…"
-date: "2016-02-19T16:59:40.650Z"
-categories: 
+title: 'Why Large Companies Fail'
+description: 'When a company becomes strong, the focus shifts from growing the business to protecting the sales from diminishing. Hence the question changes from how do we increase sales to how do we avoid the…'
+date: '2016-02-19T16:59:40.650Z'
+categories:
   - Startup
   - Growth
   - Innovation
@@ -36,7 +36,3 @@ Newspapers are trying online content but only as an addition to existing print c
 And then they want to fight for their rights with SOPA and other copyright laws. Fight their customers with layer over layer of copy protection. Squeeze their own paying customers by adding movie trailers and notices to all copies of their media.
 
 This is the sign of an industry struggling with a new form of media. This is the sign of a new breeding ground for the next monopoly. Are you building it? Are any of your friends building it?
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/28766635386/the-idiots-have-taken-over-the-store)_._

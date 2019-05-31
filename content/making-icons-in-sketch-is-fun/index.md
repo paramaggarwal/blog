@@ -1,8 +1,8 @@
 ---
-title: "Making Icons in Sketch is Fun"
-description: "Designing icons is challenging, because there is very little space. They are so tiny. You can’t explain in words and you can’t draw a picture. It has to be something one can quickly associate with…"
-date: "2016-02-23T12:15:53.376Z"
-categories: 
+title: 'Making Icons in Sketch is Fun'
+description: 'Designing icons is challenging, because there is very little space. They are so tiny. You can’t explain in words and you can’t draw a picture. It has to be something one can quickly associate with…'
+date: '2016-02-23T12:15:53.376Z'
+categories:
   - Sketch
   - Design
   - App Icon
@@ -18,7 +18,7 @@ Designing icons is challenging, because there is very little space. They are so 
 But an app icon, in contrast to a simple icon, allows the use of colour and gradients. There is much room for creativity and expression. Sketch is generally so well praised in the circles, that I decided it was time to explore it! I found this tutorial by Sebastien Gabriel.
 
 [**Sketch Tutorial**  
-_A step by step tutorial to discover Sketch._medium.com](https://medium.com/p/b76271a095e3 "https://medium.com/p/b76271a095e3")[](https://medium.com/p/b76271a095e3)
+\_A step by step tutorial to discover Sketch.\_medium.com](https://medium.com/p/b76271a095e3 'https://medium.com/p/b76271a095e3')[](https://medium.com/p/b76271a095e3)
 
 He teaches the basics of the vector tools available in Sketch in a highly practical manner. I spent a few minutes skimming through and then fired up a trial version of Sketch that I found here: [http://www.sketchapp.com](http://www.sketchapp.com)
 
@@ -53,7 +53,3 @@ Here is my final icon!
 ![](./asset-5.png)
 
 I am delighted by Sketch, and I highly recommend anyone with a creative bent to give it a shot. Just start with the tutorial above.
-
----
-
-_If you enjoyed this post, please hit Recommend!_

@@ -1,8 +1,8 @@
 ---
-title: "Scrolling LED Matrix Display for Arduino"
-description: "Two years back, I played around with an 8x8 LED Matrix display. I connected it to an Arduino along with an accelerometer, and made a game too. Today, I came across that display, and saw that it used…"
-date: "2016-02-16T13:46:07.882Z"
-categories: 
+title: 'Scrolling LED Matrix Display for Arduino'
+description: 'Two years back, I played around with an 8x8 LED Matrix display. I connected it to an Arduino along with an accelerometer, and made a game too. Today, I came across that display, and saw that it used…'
+date: '2016-02-16T13:46:07.882Z'
+categories:
   - Arduino
   - Embedded Systems
   - Display Technologies
@@ -44,7 +44,3 @@ Also take note of how little wires are needed to control 64 LEDs! Just five.
 ![](./asset-6.jpg)
 
 Here is the code for Arduino on Github: [https://github.com/paramaggarwal/scrollingmatrix](http://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fparamaggarwal%2Fscrollingmatrix&t=NjY2YjI5OTU4MDQ1N2U3NzBlYmVhMGMzNGEwZWFkNDM1YmUzMzk1NyxzOFB6cTlxOQ%3D%3D)
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/28266451949/scrolling-led-matrix-display-for-arduino)_._

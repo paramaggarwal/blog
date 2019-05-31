@@ -1,8 +1,8 @@
 ---
-title: "What’s up with the Touch Bar?"
-description: "macOS is fundamentally driven by a point and interact model. iOS is fundamentally a direct manipulation model. This is simply defined by what part of the device we hold. It’s painful to do tasks that…"
-date: "2016-11-02T16:58:14.261Z"
-categories: 
+title: 'What’s up with the Touch Bar?'
+description: 'macOS is fundamentally driven by a point and interact model. iOS is fundamentally a direct manipulation model. This is simply defined by what part of the device we hold. It’s painful to do tasks that…'
+date: '2016-11-02T16:58:14.261Z'
+categories:
   - Apple
   - Tech
   - Interaction Design
@@ -58,8 +58,3 @@ In 2016, we can.
 ---
 
 _(Inspiration for this article came from Bret Victor’s_ [_tweet_](https://twitter.com/worrydream/status/793501946464264193)_.)_
-
----
-
-[**Sign up for our weekly UX newsletter**  
-_A weekly collection of UX-related links (like this one), brought to you by your friends at uxdesign.cc_ux.email](https://ux.email "https://ux.email")[](https://ux.email)

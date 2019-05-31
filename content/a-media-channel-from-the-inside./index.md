@@ -1,8 +1,8 @@
 ---
-title: "A media channel, from the inside."
-description: "Recently I had the opportunity to see two news’ channels from the inside. Both these channels have their offices in the same building. In just three days, I got a very good overview of how a news…"
-date: "2016-02-17T16:55:08.681Z"
-categories: 
+title: 'A media channel, from the inside.'
+description: 'Recently I had the opportunity to see two news’ channels from the inside. Both these channels have their offices in the same building. In just three days, I got a very good overview of how a news…'
+date: '2016-02-17T16:55:08.681Z'
+categories:
   - Inside Look
   - Media
 
@@ -26,7 +26,7 @@ We are talking video here. It needs to be edited. So there are groups of people 
 
 **Production:**
 
-The awesome part. This is done in a room called PCR — _production control room_. There is much to read on Wikipedia, but I got to see it myself. There is a big wall with lots of screens on it. People operate different equipment in the room. There is an _audio mixer_ who controls which audio streams are actually broadcast out of the tens of inputs. Again there is a _video switcher_, who switches incoming video from different sources and controls what is _on-air_. A CAO — _computer-aided ordering_ operator queues all the necessary videos and subtitles for broadcast. The _director_ co-ordinates all of them. There are also panels to control lighting in the studio, the color balance of the video and other technical things.
+The awesome part. This is done in a room called PCR — *production control room*. There is much to read on Wikipedia, but I got to see it myself. There is a big wall with lots of screens on it. People operate different equipment in the room. There is an _audio mixer_ who controls which audio streams are actually broadcast out of the tens of inputs. Again there is a _video switcher_, who switches incoming video from different sources and controls what is _on-air_. A CAO — *computer-aided ordering* operator queues all the necessary videos and subtitles for broadcast. The _director_ co-ordinates all of them. There are also panels to control lighting in the studio, the color balance of the video and other technical things.
 
 **The studio:**
 
@@ -34,7 +34,7 @@ TV anchors have a boring and lonely job. They have to sit in a studio with aroun
 
 **Master control:**
 
-When it is time for the advertisements, the PCR hands over control to the MCR — _master control room_. Here again, a computer is used to queue advertisements and any other final changes that may be necessary. A server adds in the news ticker to this final video.
+When it is time for the advertisements, the PCR hands over control to the MCR — *master control room*. Here again, a computer is used to queue advertisements and any other final changes that may be necessary. A server adds in the news ticker to this final video.
 
 **Ticker:**
 
@@ -45,7 +45,3 @@ The news ticker is quite an independant process. A group of people feed a comput
 Now we have the final video ready for broadcast. This video is encoded, processed and the required frequency changes are done. Then the modulated signal is amplified and sent to a dish. The data is now sent to a satellite that sends it back to earth where it can be decoded and seen. In the case of satellite television though, the satellite company on earth picks up these signals, sends them again to its own satellite, and we receive our signals from their satellite. Hence usually satellite TV is a few seconds delayed compared to cable TV.
 
 This is the chain of how news is collected and broadcast over national television. Actually there is a tremendous amount of investment, licensing and technicalities into starting and operating a television channel, but broadly this is how a news channel operates.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/741706211/a-media-channel-from-the-inside)_._

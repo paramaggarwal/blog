@@ -34,7 +34,3 @@ And the story is the same.
 Everyone likes everyone else.
 
 The power of You. Which is the Me.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/49083914905/that-person)_._

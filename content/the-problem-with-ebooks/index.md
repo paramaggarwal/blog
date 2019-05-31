@@ -1,8 +1,8 @@
 ---
-title: "The Problem with Ebooks"
-description: "Amazon has always marketed Kindle very strongly. Their primary revenue though continues to be physical books, movies, televisions, ovens, shampoos and the quintessential baby diapers. I personally…"
-date: "2016-02-22T02:58:54.579Z"
-categories: 
+title: 'The Problem with Ebooks'
+description: 'Amazon has always marketed Kindle very strongly. Their primary revenue though continues to be physical books, movies, televisions, ovens, shampoos and the quintessential baby diapers. I personally…'
+date: '2016-02-22T02:58:54.579Z'
+categories:
   - Publishing
   - eBooks
   - Disruptive Innovation
@@ -48,7 +48,3 @@ Wattpad is great to bring in new authors who might not get signed up by publishi
 iBooks Author is the richest way to create rich media — you can add images, video and charts to your creations and they are presented in a very rich interactive experience. There is also a marketplace where you can sell your creations. But there is no social platform to market your creation.
 
 I believe the sweet spot lies in merging ideas from Wattpad and iBooks Author!
-
----
-
-_What do you think? Would this be the future of ebooks? Let me know in the comments below. If you enjoyed reading, consider clicking Recommend._

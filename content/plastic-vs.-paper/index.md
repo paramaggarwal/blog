@@ -1,8 +1,8 @@
 ---
-title: "Plastic vs. Paper"
-description: "Plastics are good. Yes, but not the kind we have become used to seeing everyday. Very high quality molded plastics have a very good build quality and they last really long, whatever you do. But…"
-date: "2016-02-19T16:57:43.312Z"
-categories: 
+title: 'Plastic vs. Paper'
+description: 'Plastics are good. Yes, but not the kind we have become used to seeing everyday. Very high quality molded plastics have a very good build quality and they last really long, whatever you do. But…'
+date: '2016-02-19T16:57:43.312Z'
+categories:
   - Environmental Issues
   - Recycling
   - Global Warming
@@ -20,7 +20,3 @@ My worry is that even paper is equally bad as plastic. Paper is so heavily treat
 On the other hand, bio-degradable carry bags are weak and not a good alternative. They don’t last very well. The recent government initiative to make plastic bags thicker, doesn’t make sense to me. Doesn’t that put even more plastic in the landfill? I don’t think getting a thicker plastic bag make me want to re-use it.
 
 We need containers — plastic or paper — that simply degrade within 2–3 years. Not too long and not too short. After all that is what we want. Strictly stop using containers that do not degrade. Its silly to use something that never degrades but breaks in a few days and becomes useless.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/742350383/plastic-vs-paper)_._

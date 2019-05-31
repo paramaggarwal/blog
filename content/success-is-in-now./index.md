@@ -1,8 +1,8 @@
 ---
-title: "Success is in now."
-description: "‘What is success?’, someone asked. Some paid attention, some didn’t. It’s such a core question of our lives, so elementary, that its easy to dismiss it as so. I asked myself, and the ‘I’ said…"
-date: "2016-02-16T13:36:19.352Z"
-categories: 
+title: 'Success is in now.'
+description: '‘What is success?’, someone asked. Some paid attention, some didn’t. It’s such a core question of our lives, so elementary, that its easy to dismiss it as so. I asked myself, and the ‘I’ said…'
+date: '2016-02-16T13:36:19.352Z'
+categories:
   - Psychology
   - Happiness
 
@@ -25,7 +25,3 @@ If you can be mindful of the present and appreciate the present, you have succee
 _Now_ is you; every moment of your life. Succeed at each one of them.
 
 \- Param Aggarwal
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/1237637251/success-is-in-now)_._

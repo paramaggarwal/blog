@@ -1,8 +1,8 @@
 ---
-title: "A Question of Purity of Photography"
-description: "Photography means ‘painting with light’. It is an art form just like painting. A photo sensitive film is taken, exposed to the scene that is to be captured and developed. The film, the camera and the…"
-date: "2016-02-16T13:43:53.637Z"
-categories: 
+title: 'A Question of Purity of Photography'
+description: 'Photography means ‘painting with light’. It is an art form just like painting. A photo sensitive film is taken, exposed to the scene that is to be captured and developed. The film, the camera and the…'
+date: '2016-02-16T13:43:53.637Z'
+categories:
   - Photography Tips
   - Myths
 
@@ -19,7 +19,3 @@ In film photography, if the film is under or over exposed during a shot, the onl
 Hence the existence of post processing tools is in no means an excuse to improperly light your subject expecting to be able to fix it in post processing. These tools exist to give you creative freedom. They allow us to give a dramatic effect to photographs. They allow us to turn it from what the eye sees everyday into a work of art.
 
 In art, nothing is impure. What matters is the form and expression of the photograph.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/6248822543/a-question-of-purity-of-photography)_._

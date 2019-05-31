@@ -1,8 +1,8 @@
 ---
-title: "POV Display with Accelerometer"
-description: "Featured by Hack N Mod and Make: Blog. Also posted on Arduino Forum, Sparkfun Forum and Adafruit Forum. In this project I have fixed an accelerometer to a 10-segment display (it has 10 green LED’s…"
-date: "2016-02-17T16:24:31.693Z"
-categories: 
+title: 'POV Display with Accelerometer'
+description: 'Featured by Hack N Mod and Make: Blog. Also posted on Arduino Forum, Sparkfun Forum and Adafruit Forum. In this project I have fixed an accelerometer to a 10-segment display (it has 10 green LED’s…'
+date: '2016-02-17T16:24:31.693Z'
+categories:
   - Arduino
   - DIY Projects
 
@@ -59,7 +59,3 @@ Have a look at [Sparkfun](http://t.umblr.com/redirect?z=http%3A%2F%2Fsparkfun.co
 ![](./asset-10.jpg)![](./asset-11.jpg)![](./asset-12.jpg)
 
 Code for Arduino: [http://github.com/paramaggarwal/movetosee](http://t.umblr.com/redirect?z=http%3A%2F%2Fgithub.com%2Fparamaggarwal%2Fmovetosee&t=OTJlNThjYzMxNWI5M2ZhNzA4NzZiNDQ2ZjViZDc1MjkwYjFmN2NjOCw5eVVqcjZNRw%3D%3D)
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/583971725/pov-display-with-accelerometer)_._

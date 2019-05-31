@@ -1,8 +1,8 @@
 ---
-title: "Heaven vs. Hell"
-description: "I have a very different view on the whole heaven/hell thing. What we are made to believe is that if we do good things, we go to heaven and if we do bad things then we go to hell. Which I believe is…"
-date: "2016-02-19T16:45:32.510Z"
-categories: 
+title: 'Heaven vs. Hell'
+description: 'I have a very different view on the whole heaven/hell thing. What we are made to believe is that if we do good things, we go to heaven and if we do bad things then we go to hell. Which I believe is…'
+date: '2016-02-19T16:45:32.510Z'
+categories:
   - Self Improvement
   - Musings
 
@@ -19,7 +19,3 @@ The point I am trying to make is that if a person looks onto life as some hell a
 So according to tradition they went to respective heaven/ hell even though they are in the same world and that world might simply be the one we live in.
 
 Moral: Our view on life is what life becomes.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/584040967/heaven-vs-hell)_._

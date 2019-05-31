@@ -1,8 +1,8 @@
 ---
-title: "The Belief Manifesto"
-description: "Believing convictions others have championed leads to inflexibility to correct them en-route. The game changes when circumstances change. A different time is a different circumstance. A different…"
-date: "2016-02-20T14:00:21.096Z"
-categories: 
+title: 'The Belief Manifesto'
+description: 'Believing convictions others have championed leads to inflexibility to correct them en-route. The game changes when circumstances change. A different time is a different circumstance. A different…'
+date: '2016-02-20T14:00:21.096Z'
+categories:
   - Manifesto
   - Self Improvement
   - Life Learning
@@ -26,7 +26,3 @@ Be vulnerable.
 In the beginner’s mind there are many possibilities, in the expert’s mind there are few.
 
 Strong convictions loosely held.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/32117990665/the-belief-manifesto)_._

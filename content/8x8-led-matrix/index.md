@@ -1,8 +1,8 @@
 ---
-title: "8x8 LED Matrix"
-description: "Recently I bought an 8x8 Red LED Display for Rs. 110 ($2) from Lamington Road, Mumbai. I have connected this board to an Arduino board and an accelerometer. This display has 64 LEDs but only 16 pins…"
-date: "2016-02-17T16:31:29.978Z"
-categories: 
+title: '8x8 LED Matrix'
+description: 'Recently I bought an 8x8 Red LED Display for Rs. 110 ($2) from Lamington Road, Mumbai. I have connected this board to an Arduino board and an accelerometer. This display has 64 LEDs but only 16 pins…'
+date: '2016-02-17T16:31:29.978Z'
+categories:
   - Arduino
   - DIY Projects
 
@@ -10,7 +10,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/8x8-led-matrix-e096b3043c74
 ---
 
-Recently I bought an 8x8 Red LED Display for Rs. 110 ($2) from Lamington Road, Mumbai. I have connected this board to an Arduino board and an accelerometer.
+Recently I bought an 8x8 Red LED Display for Rs. 110 (\$2) from Lamington Road, Mumbai. I have connected this board to an Arduino board and an accelerometer.
 
 ![](./asset-1.jpg)
 
@@ -73,7 +73,3 @@ Finally a complete game with scores _et all_.
 The game is simple, tilt the board to control the ball and break the bricks. Once you break all the bricks, it shows you the scores by drawing as many bricks as your score. The score depends on the time you took to complete the game.
 
 Github repository: [https://github.com/paramaggarwal/ledmatrix](http://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fparamaggarwal%2Fledmatrix&t=N2M5N2I5ZWUzYmY2NmViYjNmNjI5ZThiYTY2OTM2ZGIwYzc0MDhmMSxpSXlxUkNPSA%3D%3D)
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/584027833/8x8-led-matrix)_._

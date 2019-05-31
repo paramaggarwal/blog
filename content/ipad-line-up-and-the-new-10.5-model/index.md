@@ -37,7 +37,3 @@ The line-up has this sense of purpose now:
 2.  Pro models run **two** full size apps while in landscape, with support for Apple Pencil.
 
 In both cases, the difference in the device size is only a function of the pixel density and not the actual pixels.
-
----
-
-_Do you agree? Does this seem like something Apple might do? Let me know in a response below, otherwise please hit Recommend!_

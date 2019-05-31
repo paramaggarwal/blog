@@ -1,8 +1,8 @@
 ---
-title: "Combining multiple LED matrix modules"
-description: "This post uses a few LED Matrix Modules, that allow you to easily connect 8x8 LED Matrix displays to your Arduino. In a previous post, you saw how easy it is to connect one of these to an Arduino and…"
-date: "2016-02-19T16:44:27.116Z"
-categories: 
+title: 'Combining multiple LED matrix modules'
+description: 'This post uses a few LED Matrix Modules, that allow you to easily connect 8x8 LED Matrix displays to your Arduino. In a previous post, you saw how easy it is to connect one of these to an Arduino and…'
+date: '2016-02-19T16:44:27.116Z'
+categories:
   - DIY Projects
   - Arduino
   - Electronics
@@ -65,7 +65,3 @@ Parts used in this tutorial:
 4.  [Breadboard](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FBreadboard-id-36708.html&t=MWE2MjZiNmQ3OWQzOWViN2RlMTVlMTkxZjM5ZjJjZDRmOGY3ZTMzYSxsSGhhTmJaMw%3D%3D)
 5.  [Male Header Pins](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FHeader-Pins---Male-id-36706.html&t=OTA0MzI3YTEyMzk0M2VhNWQ0N2IyODllZGE5MWZkNWYxZGE1MDVjMCxsSGhhTmJaMw%3D%3D)
 6.  [Jumper Wires](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FJumper-Wires---Pack-of-10-id-36704.html&t=ZGI2OTYwZmYyYzIxM2Q4NzNlZDI0YzM4NjlhOTk0NTcyNWUwODFlZixsSGhhTmJaMw%3D%3D)
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/35136243259/combining-multiple-led-matrix-modules)_._

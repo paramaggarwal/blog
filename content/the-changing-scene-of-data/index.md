@@ -1,8 +1,8 @@
 ---
-title: "The Changing Scene of Data"
-description: "Each and every day, we are posting updates to social networks, taking pictures, bookmarking websites and uploading digital content. Imagine if all this data was stored in the form of files on your…"
-date: "2016-02-20T14:00:18.475Z"
-categories: 
+title: 'The Changing Scene of Data'
+description: 'Each and every day, we are posting updates to social networks, taking pictures, bookmarking websites and uploading digital content. Imagine if all this data was stored in the form of files on your…'
+date: '2016-02-20T14:00:18.475Z'
+categories:
   - Cloud Storage
   - Operating Systems
   - Data Management
@@ -36,7 +36,3 @@ Data is now defined by the entity that manages it. Foursquare manages all the da
 In the near future, I see the file system being completely hidden away. No Windows Explorer or Finder to navigate through. Apple is already pushing very hard in this direction with its latest release of OS X. Windows 8 also has a focus on apps, and not the file system.
 
 Finally I can think about what I want to do rather than what file, in what folder, do I need to edit.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/29530369206/the-changing-scene-of-data)_._
