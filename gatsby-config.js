@@ -4,7 +4,7 @@ const configuration = {
   // the name of your website
   title: 'Param Aggarwal',
   // the description of the website (eg. what shows on Google)
-  description: "Param Aggarwal's blog",
+  description: "Apple, Tesla and JavaScript. Occasional life lessons. Tomorrow, I’ll write a new post.",
   // a short bio shown at the bottom of your blog posts
   // It should complete the sentence: Written by Param Aggarwal ...
   shortBio: '',
@@ -13,7 +13,7 @@ const configuration = {
   author: 'Param Aggarwal',
   githubUrl: 'https://github.com/paramaggarwal/blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://blog.paramaggarwal.com',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'paramaggarwal',
