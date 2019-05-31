@@ -7,7 +7,7 @@ const configuration = {
   description: "Mini thoughts about JavaScript, Apple and Tesla.",
   // a short bio shown at the bottom of your blog posts
   // It should complete the sentence: Written by Param Aggarwal ...
-  shortBio: 'in Bengaluru.',
+  shortBio: '',
   // a longer bio showing on the landing page of the blog
   bio: `Apple, Tesla and JavaScript. Occasional life lessons. Tomorrow, I’ll write a new post.`,
   author: 'Param Aggarwal',
