@@ -1,8 +1,8 @@
 ---
-title: ""
-description: "Reposting one of my old posts to clarify the common misconception people have about people who believe in minimalism. Minimalist people don’t give up worldly desires or become saints or go to the…"
-date: "2016-02-17T16:48:15.639Z"
-categories: 
+title: ''
+description: 'Reposting one of my old posts to clarify the common misconception people have about people who believe in minimalism. Minimalist people don’t give up worldly desires or become saints or go to the…'
+date: '2016-02-17T16:48:15.639Z'
+categories:
   - Minimalism
   - Life Lessons
   - Self Improvement
@@ -18,7 +18,3 @@ canonicalLink: http://paramaggarwal.com/post/584291620/the-philosophy-of-minimal
 Reposting one of my old posts to clarify the common misconception people have about people who believe in minimalism. Minimalist people don’t give up worldly desires or become saints or go to the forest. Minimalism simply means to have a less confusing life. To get rid of what is not needed. To reduce complications.
 
 Making life complicated is easy, simplifying it is difficult.
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/584291620/the-philosophy-of-minimalism-as-i-see-it-is)_._

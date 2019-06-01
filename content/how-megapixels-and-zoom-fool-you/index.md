@@ -1,8 +1,8 @@
 ---
-title: "How Megapixels and Zoom Fool You"
-description: "You, yes you, are under the hold of a marketing gimmick of the camera companies. Want more megapixels? Pay us more. Why should you want more megapixels? Because we advertised it to be better and…"
-date: "2016-02-16T13:42:02.378Z"
-categories: 
+title: 'How Megapixels and Zoom Fool You'
+description: 'You, yes you, are under the hold of a marketing gimmick of the camera companies. Want more megapixels? Pay us more. Why should you want more megapixels? Because we advertised it to be better and…'
+date: '2016-02-16T13:42:02.378Z'
+categories:
   - Myths
   - Photography Tips
 
@@ -27,7 +27,3 @@ For zoom, anything above 3x and you are cropping the image so much that there ar
 You know what is the real deal? Image quality. And that is qualitative and not quantitative. So companies don’t advertise it! Next time you are out to buy a camera, do this. Just take a photo of the shop, and then one by one zoom into the image on the camera itself as much as possible and see tiny things like a table. If the camera is able to capture the details and textures then you have a good camera. This is actually affected by the size of the image sensor, but all compact camera use the same damn thing.
 
 So buy a good camera next time!
-
----
-
-_Originally published at_ [_paramaggarwal.com_](http://paramaggarwal.com/post/5094821174/how-megapixels-and-zoom-fool-you)_._
