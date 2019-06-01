@@ -60,12 +60,14 @@ function Bio() {
           <a href={`https://buttondown.email/${social.buttondown}`}>
             Join my newsletter
           </a>
-        ) : null}{` or `}
+        ) : null}
+        {` or `}
         {social.twitter ? (
           <a href={`https://twitter.com/${social.twitter}`}>
             follow on Twitter
           </a>
-        ) : null}.
+        ) : null}
+        .
       </p>
     </div>
   )

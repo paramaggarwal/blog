@@ -36,7 +36,7 @@ export default function PageTemplate({ data: { mdx, site }, pageContext }) {
         <article className="container small">
           <header>
             <h1>
-              <a href="/">«</a> {mdx.frontmatter.title}
+              <Link href="/">«</Link> {mdx.frontmatter.title}
             </h1>
             <p>
               {formatPostDate(mdx.frontmatter.date)}
