@@ -4,7 +4,7 @@ const configuration = {
   // the name of your website
   title: 'Param Aggarwal',
   // the description of the website (eg. what shows on Google)
-  description: "Mini thoughts about JavaScript, Apple and Tesla.",
+  description: 'Mini thoughts about JavaScript, Apple and Tesla.',
   // a short bio shown at the bottom of your blog posts
   // It should complete the sentence: Written by Param Aggarwal ...
   shortBio: '',
@@ -95,6 +95,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-feed`,
       options: mdxFeed,
+    },
+    {
+      resolve: 'gatsby-plugin-netlify-cms',
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
+      },
     },
   ],
 }
