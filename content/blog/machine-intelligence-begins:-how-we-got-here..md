@@ -11,7 +11,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/machine-intelligence-begins-how-we-got-here-eecc8cbec49e
 ---
 
-![[credit](https://unsplash.com/photos/Se7fVNa9IXc)](./asset-1.jpeg)
+![[credit](https://unsplash.com/photos/Se7fVNa9IXc)](/img/1*EDcDdY50hrQSW7l1PTZq3g.jpeg)
 
 ## Looking back, we can now connect the dots.
 
@@ -29,7 +29,7 @@ But still this proved that buying a computer with a web browser is something use
 
 Each time the valuations of such companies would peak to unimaginable heights because of the misappropriation of what these companies were actually capable of achieving. This is because the very companies who dominated the internet on the strength of a new medium didn’t reach their full potential before another big trend came into the picture and displaced these original disruptors.
 
-![[credit](https://unsplash.com/photos/B3rMsmQi4Qk)](./asset-2.jpeg)
+![[credit](https://unsplash.com/photos/B3rMsmQi4Qk)](/img/1*5jT0HjuCh--GybfI7sSm4g.jpeg)
 
 #### Mobile App + X
 
@@ -45,7 +45,7 @@ And so the wheel spinned again. A lot of expectation was set on these companies 
 
 _This is today._
 
-![[credit](https://unsplash.com/photos/BM0y9zmkA1M)](./asset-3.jpeg)
+![[credit](https://unsplash.com/photos/BM0y9zmkA1M)](/img/1*3Z9TFnn4VTMo94meXcafYg.jpeg)
 
 #### Machine Intelligence + X
 
@@ -81,7 +81,7 @@ In all of this, there is one dot missing. What would be the interface to such an
 
 They too, are already here. Wearables.
 
-![[credit](https://unsplash.com/photos/M31VSuBSf0g)](./asset-4.jpeg)
+![[credit](https://unsplash.com/photos/M31VSuBSf0g)](/img/1*YckpuksIRc_D98_oiPJciQ.jpeg)
 
 Wearables have a bad interface in the traditional sense —if you consider an interface as a screen, that is. Hence critics of wearables take the need for a screen as paramount.
 

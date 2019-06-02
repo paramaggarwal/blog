@@ -13,47 +13,47 @@ canonicalLink: http://paramaggarwal.com/post/35136388954/using-an-led-matrix-mod
 
 The [LED Matrix Module](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FFeemo-Matrix-Adapter-id-47758.html&t=OTJhNGEwODYzNDM2MGQ3MTJkY2ZiZTE3MTk5NjdlNmMzZGFiZDUzNixWZjRwYXBVeA%3D%3D) allows you to add a nice display to your project.
 
-![](./asset-1.jpg)
+![](/img/0*FVZifaStkIFSIdCQ.jpg)
 
 Lets talk about this display first. It is a matrix of 8x8 Red LEDs with all their anodes connected together. So the anodes of each column of LED are given as 8 pins. And the cathodes of each row are given as 8 pins.
 
-![](./asset-2.jpg)
+![](/img/0*vG1tS7YCZALkfiMU.jpg)
 
 Hence we have a total of 16 pins on this display. Now, as you might guess, a single configuration of these pins cannot uniquely assign a value to each of the 64 LEDs on the display. Hence we multiplex this information. We display column by column, and we do it so fast, that it appears as one image on the matrix to our eyes.
 
 Now if we were to connect these 16 pins to an Arduino, that would be a lot of connections and it would leave us without any extra pins for other purposes.
 
-![](./asset-3.jpg)
+![](/img/0*kGzFXjqeq3HBsuq2.jpg)
 
 It is from this that we got the idea to fabricate our very first PCB. It consists of an IC called a Serial to Parallel Shift Register. It is a register, into which you can shift 8 bits of data serially, and these will then show up on 8 pins of the IC. Hence we use two of these for each of the set of 8 pins of the matrix.
 
-![](./asset-4.jpg)
+![](/img/0*djNh0bD5wCil37OW.jpg)
 
 Once soldered it looks like this. Note the use of tiny SMD current limiting resistors. They are slightly difficult to solder, but give great space savings. All the components hide underneath the LED matrix like this:
 
-![](./asset-5.jpg)
+![](/img/0*tPvSNY8iG8UsXjkF.jpg)
 
 The display is also soldered onto the board, so that there are no loose parts.
 
-![](./asset-6.jpg)
+![](/img/0*gbxDOEpIS0Ri_i3g.jpg)
 
 Hence we now have to deal with only 6 pins. The two ICs are connected serially, so to control the 16 pins of the display, we need to shift in 2 bytes every time. These pins are:
 
-![](./asset-7.jpg)
+![](/img/0*iqA9ZU0cNaDsaMOt.jpg)
 
 The VCC line expects 5V supply and the GND is connected to the same on Arduino. CLK, DATA and LATCH are the lines that handle the serial transfer. At each CLK, the DATA line is read, and in this was a bit is transferred into the shift register. After sending a complete byte of 8 bits, we toggle the LATCH signal once which transfers the data in the shift register to the outputs.
 
-![](./asset-8.jpg)
+![](/img/0*M6e8od3OX8kQ9ktu.jpg)
 
 Start by connecting [jumper wires](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FJumper-Wires---Pack-of-10-id-36704.html&t=NjkyZTE3NjE0YWFmOTRkYzk5NjJiNTE4OTRiZGJiZTUzMzYwYWYwMCxWZjRwYXBVeA%3D%3D) to the display and the [Arduino Uno](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FArduino-Uno---R3-id-28855.html&t=ZmFlZDc0ZjlhOTdiZWQ3ZDEyOTYzYTQ2MWMyZTY2ZTM4MTAyYWUzNCxWZjRwYXBVeA%3D%3D).
 
-![](./asset-9.jpg)
+![](/img/0*IIbNCyV6YOdha9uJ.jpg)
 
 Connect CLK to pin 13, DATA to pin 11 and LATCH to pin 10. ENABLE is an active low pin, which means that to enable the display we need to ground this pin.
 
 Now launch the Arduino IDE and paste the code: [Feemo Matrix Adapter Sample Code](http://t.umblr.com/redirect?z=https%3A%2F%2Fgist.github.com%2F3738207&t=OTg1NzI1MzQwNmU4M2NhODUwZmQ0ZWU3MDg0ODNhNDgxNDVkM2ZjZixWZjRwYXBVeA%3D%3D).
 
-![](./asset-10.png)
+![](/img/0*q2gvLHmC_IEXVPlb.png)
 
 Load the code to the Arduino and you should see a string of text scrolling on the display. Congrats!
 

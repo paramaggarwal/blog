@@ -14,7 +14,7 @@ canonicalLink: http://paramaggarwal.com/post/78718162548/this-time-at-metarefres
 
 ## Summarising two flash talks I did a few years ago, and how the ideas still continue to be open problems today in 2017!
 
-![by [HasGeek](https://www.flickr.com/photos/hasgeek/12793265184/)](./asset-1.jpeg)
+![by [HasGeek](https://www.flickr.com/photos/hasgeek/12793265184/)](/img/1*Rsq-740O3y3dqreYfiF8Hg.jpeg)
 
 At JSFoo 2013, a Javascript conference in Bangalore — in a turn of events, I gave a small 5 minute flash talk with my friend [Chetan Agrawal](https://medium.com/@chetan1507).
 

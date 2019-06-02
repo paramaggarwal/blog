@@ -14,7 +14,7 @@ canonicalLink: https://medium.com/@paramaggarwal/programming-an-stm32f103-board-
 
 ## While the $2 board is cheap and very commonly found, getting up and running is slightly convoluted. Here is a short guide on how to set it up to program directly from USB.
 
-![A generic $2 STM32F103 board on AliExpress (aka Blue Pill)](./asset-1.jpeg)
+![A generic $2 STM32F103 board on AliExpress (aka Blue Pill)](/img/1*etp3_d50qXURqgutedaA5A.jpeg)
 
 The bare STM32F103 board only comes with a default USART boot loader. Even though there is a USB port on the board, you cannot use it to program it because it does not have the relevant bootloader.
 
@@ -22,7 +22,7 @@ I got my board for less than $2 from [Advanced Tech on AliExpress](https://www.a
 
 First, connect your USB to Serial/UART/TTL Converter like this:
 
-![([source](http://www.wifi4things.com/stm32f103c8t6-blue-pill-board-with-arduino-ide-on-linux/))](./asset-2.png)
+![([source](http://www.wifi4things.com/stm32f103c8t6-blue-pill-board-with-arduino-ide-on-linux/))](/img/1*p1bMhClCUVREv9gXsziN9g.png)
 
 In the image above, you see two yellow jumpers marked `BOOT0` and `BOOT1`. These specify the source of code for the micro-controller. In the default state of both being `0`, the micro-controller uses its own flash memory bootloader — which there is none right now — and which we are adding. For now, to be able to program the micro using USART, you need to set `BOOT0` as `1` and leave `BOOT1` to `0`. Basically move the first jumper and leave the second one.
 
@@ -38,7 +38,7 @@ python ./stm32loader -p /dev/tty.SLAB_USBtoUART -w ~/Downloads/generic_boot20_pc
 
 You might need to hit reset button before you run the above to get it to work. If it is successful, you should see the LED blink fast after pressing reset and then continue to blink slowly. It is signaling that no user program is found. Make sure to reset the boot setting jumpers back to default of both`0`.
 
-![](./asset-3.jpeg)
+![](/img/1*oFeqQ5gNpPM7M8aeHJp2hQ.jpeg)
 
 Now we are ready to program via USB. Disconnect everything and use the USB to connect. Verify that your computer recognises the device using `dmesg` or by going to About This Mac > System Report > USB. You should see a device as Maple (The hardware and software that we get to work on above are all thanks to the excellent folks at [Maple Labs](http://www.leaflabs.com/maple).)
 

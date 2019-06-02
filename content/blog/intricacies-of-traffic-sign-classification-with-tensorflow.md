@@ -40,7 +40,7 @@ import cv2
 
 bw = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 equ = cv2.equalizeHist(bw)
-```![Visualization of black and white and histogram equalized versions compared to original.](./asset-1.png)
+```![Visualization of black and white and histogram equalized versions compared to original.](/img/1*pHyGGDIGjOryJFyHHAB9EQ.png)
 
 #### Normalisation
 
@@ -58,7 +58,7 @@ There are three reasons to generate more data by augmenting it.
 2.  We want data with variations on rotation and translation so that the model can generalize better and be agnostic to specific positioning of the sign.
 3.  Also, certain classes are under-represented in the data, by augmenting and adding data, we can give more samples to these minorities.
 
-![](./asset-2.png)![We want to equalize the representation of classes in our data. \[Before/After\]](./asset-3.png)
+![](/img/1*oHPth2wN-CJzbVwIPqKdSA.png)![We want to equalize the representation of classes in our data. \[Before/After\]](/img/1*X3waH4jxI6IFy-ChDoucjg.png)
 
 #### Translation
 
@@ -74,19 +74,19 @@ A similar realization struck me once I visualized my augmentations. I was rotati
 
 ```
 scipy.ndimage.interpolation.rotate(image, random.randrange(-10, 10), reshape=False)
-```![](./asset-4.png)
+```![](/img/1*9KlZvNg5gf6pL8c_oHZhrQ.png)
 
 ### Neural Network
 
 This is what we are here for! Let’s get to the main course. I logged the performance of my network for each change I made, now I get to share it with you!
 
-![Before I corrected my over-augmentation of data, this is what I started with.](./asset-5.png)
+![Before I corrected my over-augmentation of data, this is what I started with.](/img/1*5wypraMewwdNUOT39d7oeg.png)
 
 First let’s look at my experimentation with having a basic neural network with just a single hidden layer. As you can see above, even flattening and connecting the image data to output directly gives you are baseline of 70%! Once we add a hidden layer, we start overfitting — even a dropout doesn’t help. By continuously reducing the width of the hidden layer, we get good results at around 48 neurons. I brief experimentation with adding another layer also didn’t so much benefit.
 
 While I was doing this, I added visualisation to my augmented data and realized that I was translating and rotating them a bit too much. After being more conservative while augmenting the images, we begin our journey.
 
-![After correcting the over-augmentation, we begin to see nice accuracy, with very basic networks!](./asset-6.jpeg)
+![After correcting the over-augmentation, we begin to see nice accuracy, with very basic networks!](/img/1*-vi19j9WZrFBV002nFhuVQ.jpeg)
 
 You can immediately see that the directly connected model jumps from 70% to 85% after being more conservative about augmenting the data. I quickly try the variation with a single hidden layer and we are already above 90% — this is going great!
 
@@ -94,15 +94,15 @@ I also experiment with going overboard on the hidden layer, but keeping it in co
 
 At this point, we now look towards adding convolution layers to our model to try to move into the 95% territory. This is when I realized I stepped on burning coal.
 
-![Trying to get the convolution layer depths right.](./asset-7.png)
+![Trying to get the convolution layer depths right.](/img/1*EZVCrx26s-ImqNH3MwT2Pw.png)
 
 First I tried out different depths for the convolution layers. I noticed that smaller depths actually helped the network.
 
-![Making the fully connected layers work right.](./asset-8.png)
+![Making the fully connected layers work right.](/img/1*G8sWDM_Hz2OTfuMpWEL3GA.png)
 
 Here again, I learned that smaller layer width actually helped the network. If the layer width gets too high, we could try to improve it by using dropouts, but a smaller network is probably going to generalize better than a large one with dropouts.
 
-![I think I want to die.](./asset-9.png)
+![I think I want to die.](/img/1*qQuPiqjLN3J7C6GrOxpApA.png)
 
 I went crazy by this point, nothing I would do would push me into the 90% range. I wanted to cry. A basic linearly connected model was giving me 85% and here I am using the latest hotness of convolution layers and not able to match.
 
@@ -110,7 +110,7 @@ I took a nap.
 
 The next day, I approached this differently. I tried to run my network without my pre-processing and augmentation steps, and it did better on a standard LeNet model. I tweaked my normalization steps and realized that forcing input to be in -0.5 to +0.5 range was actually hurting it a lot! So I immediately made it only be in the -128 to 128 range and I was quickly friends with the 90% circle. Success!
 
-![](./asset-10.png)
+![](/img/1*EnrXaMtun9m5Hv8zeqw3Gw.png)
 
 Here is my final model. I am surprised how tiny it is! A small amount of dropout adds redundancy to the fully connected layers making an interpretation of the input. Again, the widest this network goes is 128 — that’s so awesome!
 
@@ -120,11 +120,11 @@ Use matplotlib’s `subplot()` function to be able to render images side by side
 
 Also, visualize the confusion matrix on the test set. Notice that the model is weak at learning the classes in the 0 to 10 range. With this understanding, we can dig deeper and maybe add more training data in that dataset.
 
-![](./asset-11.png)
+![](/img/1*4pQZhNJ7_NfkXXs2yQxFbw.png)
 
 Pick out some random images from your test set and visualize the output of the neural network. What we are looking for are singular peaks that say that the model is confident about a particular class. Unfortunately, our model can’t decide what it wants for lunch. In most cases, it is predicting upto 3 different classes for each input. Very indecisive.
 
-![](./asset-12.png)
+![](/img/1*uHcYtfdi0lbMkk1IVTfmHg.png)
 
 While I haven’t tried it out yet, use of TensorBoard is recommended. I look forward to using it in a future project. This will help us visualize the weights while training as well as the convolution filters.
 

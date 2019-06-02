@@ -17,7 +17,7 @@ Yesterday, I finished up building a little module controlled with just 5 wires t
 
 Today, it was time to take it to the next step. Getting realtime tweets from my favorite site The Verge and displaying them.
 
-![](./asset-1.jpg)
+![](/img/0*usi99YIG5FU-Dvaq.jpg)
 
 For this, I needed:
 
@@ -25,13 +25,13 @@ For this, I needed:
 
 [LiPower Shield](http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.sparkfun.com%2Fproducts%2F10711&t=OTQ4MWE3MGYwYTNhZjllZTRhZTA0MmY1MjY5NzUyZDRjNzgyOTU5Yix1Z1ViMG9LaA%3D%3D) from Sparkfun — Another shield stacked on to take power from a LiPoly battery and keep the whole device completely wireless.
 
-![](./asset-2.jpg)
+![](/img/0*fvGxVsQhJ1QDGnJg.jpg)
 
 In addition there was the trusty [Arduino Uno](http://t.umblr.com/redirect?z=http%3A%2F%2Farduino.cc%2Fen%2FMain%2FArduinoBoardUno%2F&t=YzQzODRhODYzNWFmZjQ1NzVkZDliZjAxOTQ5OWYyOWM4YWJmZDcyNSx1Z1ViMG9LaA%3D%3D) and a little speaker to beep when new tweets are going to be displayed.
 
 There is quite a mess of wires now.
 
-![](./asset-3.jpg)
+![](/img/0*p_By49GukCK1SyjK.jpg)
 
 In the process of building it, I also had to build a [tiny application](http://t.umblr.com/redirect?z=http%3A%2F%2Fsimpletwitter.herokuapp.com&t=ZWU1ZTBkODk2YWYxN2ZjMzMzN2RiODhhODRlNzY1Mjc2NTQ2M2ZhNix1Z1ViMG9LaA%3D%3D) which I hosted on Heroku. It’s job is to call the Twitter API and parse the reply into a tiny package which the Arduino can then understand.
 

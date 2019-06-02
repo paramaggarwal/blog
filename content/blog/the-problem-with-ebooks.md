@@ -11,7 +11,7 @@ published: true
 canonicalLink: http://paramaggarwal.com/post/30580914562/open-letter-to-flipkart-doing-ebooks-better-than
 ---
 
-![[credit](https://unsplash.com/photos/PkyL3p9Kx8c)](./asset-1.jpeg)
+![[credit](https://unsplash.com/photos/PkyL3p9Kx8c)](/img/1*-kBN5zZQFygW3TjhI0XcpQ.jpeg)
 
 ## Digital books can’t beat printed books if they continue to just simply be digital forms of printed text. They need to play a different game.
 

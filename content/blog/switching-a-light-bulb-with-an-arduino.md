@@ -23,31 +23,31 @@ Caution: High voltages are dangerous. This post just describes what I did. This 
 
 The first step is understanding these parts. Pulling up their data sheets, a TRIAC is like this:
 
-![](./asset-1.png)
+![](/img/0*iSQuI0IgeTejFgJb.png)
 
 It has two terminals where the mains supply is connected and a gate which controls it.
 
-![](./asset-2.png)
+![](/img/0*DFULvjbiqTa_lAID.png)
 
 For the opto-isolator, at the input is a simple LED. If this is on, then the output is switched.
 
-![](./asset-3.png)
+![](/img/0*qS2WV__7arJg4LSm.png)
 
 The combination of the two parts. Hence the Arduino is completely isolated from the mains supply.
 
-![](./asset-4.jpg)
+![](/img/0*WSH03X0cf5fVsYNP.jpg)
 
 The basics. A bulb socket, mains socket and safety tape.
 
-![](./asset-5.jpg)
+![](/img/0*Z3hYQIVCAxXXuG2B.jpg)
 
 The bulb I wish to take control of. It’s very bright, hence I left it inside the covering.
 
-![](./asset-6.jpg)
+![](/img/0*2m79aXPvEL0otER5.jpg)
 
 The circuit above, put together on a general use board.
 
-![](./asset-7.jpg)
+![](/img/0*fdoEYwsD_vggoo9I.jpg)
 
 Again, take extreme care and cover all high voltage areas with safety tape.
 

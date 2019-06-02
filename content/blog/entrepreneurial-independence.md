@@ -11,7 +11,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/entrepreneurial-independence-e52022d9c4d7
 ---
 
-![](./asset-1.jpeg)
+![](/img/1*k9PBdRwUk92WAzmxEaVc7A.jpeg)
 
 ## Paul Graham’s thoughts on people starting up for the first time.
 

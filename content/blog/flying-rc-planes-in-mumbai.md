@@ -13,15 +13,15 @@ canonicalLink: http://paramaggarwal.com/post/28917252063/people-flying-rc-planes
 
 One week, me and a friend went along to Mahalaxmi Race Course in Mumbai. Every weekend hobbyists get together and fly remote-controlled planes. These are not the measly battery operated kind. They run on fuel and have actual engines that drive propellers.
 
-![](./asset-1.jpg)
+![](/img/0*cdA-5zHHspx1nmMb.jpg)
 
 Their remotes look complicated. And the whole process of getting it to take off seemed fairly complex.
 
-![](./asset-2.jpg)
+![](/img/0*wLnoK7dAt_fsRSKP.jpg)
 
 But they are so awesome.
 
-![](./asset-3.jpg)
+![](/img/0*hPxzytkL5Tga9xA3.jpg)
 
 Here is a video of one taking off.
 

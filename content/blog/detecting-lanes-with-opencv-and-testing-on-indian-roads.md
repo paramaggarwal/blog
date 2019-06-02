@@ -12,7 +12,7 @@ published: true
 canonicalLink: https://medium.com/computer-car/my-lane-detection-project-for-the-self-driving-car-nanodegree-by-udacity-36a230553bd3
 ---
 
-![Photo by Aleksandr Kozlovskii on [Unsplash](https://unsplash.com/search/road?photo=Lr7n9IUBIiY).](./asset-1.jpeg)
+![Photo by Aleksandr Kozlovskii on [Unsplash](https://unsplash.com/search/road?photo=Lr7n9IUBIiY).](/img/1*9SnkA-M4inI33DeDZEw1mw.jpeg)
 
 ## I’ll give an intro to the course and then we will talk about the first project we implemented which was to detect the lane lines using computer vision from a dashboard camera recording of a car driving on the highway.
 
@@ -27,41 +27,41 @@ It is quite hard to get into it as there is an application process and a 4:1 rat
 
 The video above talks about how we go about processing the input stream and the steps involved to build an image processing pipeline that gives just two lines as outputs — one left lane and one right lane.
 
-![](./asset-2.jpeg)
+![](/img/1*tAYhzModmkMq3xRC3MaVQA.jpeg)
 
 Let’s go through them in more detail along with the code here, starting with a picture of a highway above.
 
-![](./asset-3.jpeg)
+![](/img/1*-UN1jmaECyBFLhGlUdeszA.jpeg)
 
 The first thing we always do is to blur the image so that only truly contrasting parts of the picture stand out in the next step. This helps smooth out the overall numbers in the image matrix that defines this picture. The `kernel_size` is the amount of blur to be applied.
 
 ```
 cv2.GaussianBlur(img, (kernel_size, kernel_size), 0)
-```![](./asset-4.jpeg)
+```![](/img/1*_ra9OZPXkpBTWxUok7fUUg.jpeg)
 
 We apply the Canny Transform, which is a popular edge-detection algorithm. Here, it takes two threshold values to determine how little and how much change is acceptable to be considered a valid edge. This is an important parameter that we tweak to achieve the best possible results.
 
 ```
 cv2.Canny(img, low_threshold, high_threshold)
-```![](./asset-5.jpeg)
+```![](/img/1*JlreyeSPl81rMeKPfXZ79A.jpeg)
 
 Not all of the edges are important to us, so we mask out most of the image and only keep the bottom part of the road in view.
 
-![](./asset-6.jpeg)
+![](/img/1*WUO3MHzrEKrg9MlqgtmprA.jpeg)
 
 This is the most important step, we use the Hough Transform to convert the pixel dots that were detected as edges into meaningful lines. It takes a bunch of parameters, including how straight should a line be to be considered a line and what should be the minimum length of the lines. It will also connect consecutive lines for us, is we specify the maximum gap that is allowed. This is a key parameter for us to be able to join a dashed lane into a single detected lane line.
 
 ```
 cv2.HoughLinesP(img, rho, theta, threshold, np.array([]), minLineLength=min_line_len, maxLineGap=max_line_gap)
-```![](./asset-7.jpeg)
+```![](/img/1*LQcGWvAxLMtDS8agv2vWCw.jpeg)
 
 Next we overlap these detected lines on our image to find out how well we are doing. Notice that it is detecting multiple lines on both sides and we just need one single line.
 
-![](./asset-8.jpeg)
+![](/img/1*UAYcmjoPmbJIgCEo_MYyGA.jpeg)
 
 For this step I decided to use a straightforward way to determine which lane is the most relevant for us. For each of the left and right lane (based on slope) I find the longest line. This helps me determine a single most dominant line for both sides — marked in blue above.
 
-![](./asset-9.jpeg)
+![](/img/1*ycDpSBht6nvkYhNbEJqJAg.jpeg)
 
 Now if you check the video I have posted on YouTube above, you can see that as this algorithm is applied on each frame of the image, it jitters and moves between frames. Hence we apply a smoothing moving average on the detected position of the lines to make sure that we have a smooth and stable lane detected on both sides.
 

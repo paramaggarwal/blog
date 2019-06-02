@@ -1,7 +1,7 @@
 ---
 title: "Did Android help Google?"
 description: "Android, Inc. was founded in 2003 by Andy Rubin and team. The early intentions of the company were to develop an advanced operating system…"
-date: "2019-06-02T10:14:16.330Z"
+date: "2019-06-02T10:32:02.033Z"
 categories: []
 published: false
 ---

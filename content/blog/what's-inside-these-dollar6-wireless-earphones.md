@@ -12,15 +12,15 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/whats-inside-these-6-wireless-earphones-f8d0e97a5f9b
 ---
 
-![Just. Six. Bucks.](./asset-1.jpeg)
+![Just. Six. Bucks.](/img/1*HeKSYbktJs0lERPGrCIYzQ.jpeg)
 
 ## We open them up and look inside at some of the electronics and marvel at today’s age of ubiquitous wireless earphones!
 
-![](./asset-2.jpeg)
+![](/img/1*ewC88n6VGZSbMOOVUADn_g.jpeg)
 
 I have been wanting to try some lightweight bluetooth earphones since a while, but they have always been in the $99 range and higher. Recently I came across these on AliExpress and they had really good ratings. So I gave them a shot.
 
-![](./asset-3.jpeg)![](./asset-4.jpeg)
+![](/img/1*Q07mWHpI80kiQdzvfQYOyg.jpeg)![](/img/1*r8l_2Xb4_HpD3kE1856dQA.jpeg)
 
 They were just $ 6, inclusive of shipping, so I ordered them. I’m glad I did! They are simply amazing. They do their job well and the audio is decent. My main take-away here was that I was looking at wireless earphones all wrong.
 
@@ -36,7 +36,7 @@ It feels like we were tied to a leash and somebody just removed it!
 
 Let’s look inside.
 
-![](./asset-5.jpeg)
+![](/img/1*dZgRjk8nVeUZJoxxUmyYjw.jpeg)
 
 That’s it! Just one chip. Notice the fray wires going into the left and right earphones. The micro-usb port along with the tiny charging IC beside it. And the antenna on the bottom right for Bluetooth — etched right into the PCB itself for cost and simplicity!
 
@@ -44,7 +44,7 @@ Even the battery is really tiny, the size of this board itself. It boggles my mi
 
 Things like wireless performance, audio resonance and battery life are challenging problems. It is easy to put together a working wireless earphone today, but really hard to make great ones.
 
-![](./asset-6.jpeg)
+![](/img/1*ABcoskxiztNrPU9jgeusWg.jpeg)
 
 The back side of the PCB is just buttons and the tiny black microphone. Notice the cutout for the antenna on the other side. So much going on in so little space.
 

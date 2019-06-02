@@ -19,7 +19,7 @@ Today, I came across that display, and saw that it used up all the pins on the A
 
 This could be changed because of my experience with serial to parallel converters [before](http://www.paramaggarwal.com/post/584282671/in-this-circuit-three-single-digit-displays-have). I had 16 pins to control, hence I would need two such chips.
 
-![](./asset-1.jpg)
+![](/img/0*6tJUSWqgsgJdC7mq.jpg)
 
 Let me put in my video here to show what I finally built.
 
@@ -27,21 +27,21 @@ Let me put in my video here to show what I finally built.
 
 I got to work putting these together on a general purpose PCB. If you decide to make your own, you will need to find out the pinout of the display as they vary. Also take a look at the [datasheet](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.nxp.com%2Fdocuments%2Fdata_sheet%2F74HC_HCT595.pdf&t=OTY5ZmRkMzlmZGJmNjZhMmJiYTI1NjRmZDJiMDZjYmVkYTg3MGUxZSxzOFB6cTlxOQ%3D%3D) for the 74HC595 IC.
 
-![](./asset-2.jpg)![](./asset-3.jpg)
+![](/img/0*mygcMFG7kx5nPiRZ.jpg)![](/img/0*t_U3KlS45uqK1BYi.jpg)
 
 When you don’t really have a proper way of working, you work like this:
 
-![](./asset-4.jpg)
+![](/img/0*c5ftIP9ugziXHplA.jpg)
 
 Once the circuit was soldered together, it was time to code. I am using an Arduino Uno with Arduino 0100 software for Mac. The code is linked to in the end.
 
 First step was to display a simple image, in this case an upward arrow.
 
-![](./asset-5.jpg)
+![](/img/0*LA2LGIV8wHlin1qV.jpg)
 
 Also take note of how little wires are needed to control 64 LEDs! Just five.
 
-![](./asset-6.jpg)
+![](/img/0*ZuAC93-s91uyR6_O.jpg)
 
 Here is the code for Arduino on Github: [https://github.com/paramaggarwal/scrollingmatrix](http://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fparamaggarwal%2Fscrollingmatrix&t=NjY2YjI5OTU4MDQ1N2U3NzBlYmVhMGMzNGEwZWFkNDM1YmUzMzk1NyxzOFB6cTlxOQ%3D%3D)
 

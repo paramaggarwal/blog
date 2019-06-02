@@ -12,7 +12,7 @@ published: true
 canonicalLink: https://medium.com/caliberbox/the-era-of-candidate-databases-is-over-30f19c31e8c2
 ---
 
-![([source](https://unsplash.com/photos/iw7QgT1uv-4))](./asset-1.jpeg)
+![([source](https://unsplash.com/photos/iw7QgT1uv-4))](/img/1*YJ2lOWRwMJ6lsTv5P4hTQg.jpeg)
 
 ## Scraping and aggregating millions of candidate resumes and profiles is a solved problem. Storage is free. It’s time to bring meaning to each profile.
 
@@ -20,11 +20,11 @@ In the 90’s anyone could create a website. You could either use one of the fre
 
 But with the proliferation of these islands of information, arose a new problem — how do you get to these people? Yahoo solved this by curating a database of these websites by category. Looking for info about that particular cooking recipe? Search the Yahoo Directory and you shall find it.
 
-![The Yahoo Small Business directory.](./asset-2.png)
+![The Yahoo Small Business directory.](/img/1*q1xLIhsSzNy3ZnZ-LK7n0w.png)
 
 As the number of sites in each category grew, we now had to find out which is the best of these? Everyone is claiming that they are a great cooking recipe website — but which is truly the best? Which one deserves your time?
 
-![The early days of Google.](./asset-3.png)
+![The early days of Google.](/img/1*jd6BKSD4lCAoqXKPxIPOIA.png)
 
 Here comes Google and their PageRank algorithm. By ranking each page by the number of incoming links as well as scraping the site for content — Google was able to pair the claims of the website with the validation of other similar websites linking to them. It was the first verified index of interest groups on the web.
 

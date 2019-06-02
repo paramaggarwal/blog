@@ -11,17 +11,17 @@ published: true
 canonicalLink: https://medium.com/sketch-app-sources/tutorial-make-an-awesome-logo-for-your-startup-with-sketch-6a7a9187023c
 ---
 
-![[Photo by Galymzhan Abdugalimov](https://unsplash.com/photos/ICW6QYOcdlg)](./asset-1.jpeg)
+![[Photo by Galymzhan Abdugalimov](https://unsplash.com/photos/ICW6QYOcdlg)](/img/1*TuvXQ1sBbpvShlgblRQ8Kw.jpeg)
 
 ## You will learn about three key steps to build a logo that is minimal, polished, conveys your mission and will make you look like a startup unicorn.
 
-![The Sportzify logo we will be building today. By now you already have a general idea of what they do.](./asset-2.png)
+![The Sportzify logo we will be building today. By now you already have a general idea of what they do.](/img/1*1RN4kIuPkvUr5kV7SyThBg.png)
 
 I have been playing with Sketch since it’s early days and just love it’s ease of use. The fact that it works with simple geometric shapes and paths that can be combined into more complex shapes just makes it perfect for icon and logo design work. Once you make your artwork, you can tweak the size, the color and even the shape of your design and then be able to export the same to an infinitely sized canvas for print on a huge billboard!
 
 This is the beauty of vector based design software, and in my opinion there is nothing better than Sketch out there. So quickly head on to [sketchapp.com](https://www.sketchapp.com), grab the free trial and begin work on your awesome new branding for your startup.
 
-![The Sketch Website. The beautiful diamond logo is made by Sketch, in Sketch, for Sketch!](./asset-3.png)
+![The Sketch Website. The beautiful diamond logo is made by Sketch, in Sketch, for Sketch!](/img/1*U6ifgbl_r5UvRoY5Jrtitw.png)
 
 I’ll teach you how to make an icon and branding for your startup in three easy steps. Suffice to say, that if you were to approach a design firm to do an icon for you of this calibre, you would easily spend in the order of hundreds of dollars. But startups can’t afford to spend that much, so at this nascent stage many entrepreneurs hack away at a crude logo for themselves. Here I’ll show you a better way to build an excellent identity on day one.
 
@@ -37,17 +37,17 @@ So right out the gate we begin to understand the core values of **fitness**, of 
 
 For example, the Yelp logo is inspired by pizza slices and Zomato is inspired by a spoon. Both eventually want you to think of food.
 
-![](./asset-4.png)![The Yelp and Zomato logos are copyright of their respective trademark owners.](./asset-5.jpeg)
+![](/img/1*lSEtr-Yhq0nLREkwMIJR_Q.png)![The Yelp and Zomato logos are copyright of their respective trademark owners.](/img/1*AmR7r3OMv55CMB1h4Z2Hrg.jpeg)
 
 #### Step 2: Fire up The Noun Project
 
 I love The Noun Project. It started in 2010 with a simple premise: _a platform for visual communication._ Today it has thousands of icons depicting anything that you can think of. Search for food and you will see food depicted visually in a thousand different ways.
 
-![](./asset-6.png)
+![](/img/1*yl-vJDCRSCEzhiy9jwqOaA.png)
 
 Given our theme of _personal health and fitness_, let’s start searching for icons that depict it well. Make sure we look for something simple and minimal. Also, we are looking for upto three icons that we can then combine later.
 
-![](./asset-7.png)![](./asset-8.png)![The Noun Project Mac App allows you to simply drag and drop an icon that you would like to use.](./asset-9.png)
+![](/img/1*w-2GE9xFffByOQbMMjPDvA.png)![](/img/1*kE0dEb1AmGHh13bmZSuwGw.png)![The Noun Project Mac App allows you to simply drag and drop an icon that you would like to use.](/img/1*TYKIrDl1T9B2SS6FizCEZA.png)
 
 Looks like we don’t have much headway with the key terms of the mission themselves — and that is how it is expected to be. We don’t tend to use specific nouns when we describe our dream and our mission.
 
@@ -55,13 +55,13 @@ But I begin to see that health is well denoted using the visual of a heart, and 
 
 Let’s dig deeper given this new insight.
 
-![](./asset-10.png)![](./asset-11.png)![More specific searches for nouns and verbs around our core theme.](./asset-12.png)
+![](/img/1*vODNu_qASxqJ0e4nFJbv-g.png)![](/img/1*7XZUdM5JZinS8sgm7X9Afw.png)![More specific searches for nouns and verbs around our core theme.](/img/1*4mWfRaw1AOIyGzqN0j95zw.png)
 
 Looks like we are getting somewhere. The feeling of a _sporty_, _fit_ and _active_ lifestyle is beginning to emerge from these sets of icons. Now we need to pick out the ones we like.
 
 I personally liked the following two icons for their simplicity and clean edges. But you should pick plenty icons at this stage so that you can eventually see what works best in the next step.
 
-![](./asset-13.png)![A running icon and a heart icon.](./asset-14.png)
+![](/img/1*_mTYidxN7VeIEsj9dRdlTQ.png)![A running icon and a heart icon.](/img/1*jIsDlqwAkaAF2qQ7J2ogHA.png)
 
 Note: Some icons will require attribution. I recommend that you instead go ahead and buy them as they cost as little as $2 and most of it goes back to the creator. If you see yourself doing this often, you can even subscribe to NounPro for just $10/month_._
 
@@ -69,21 +69,21 @@ Note: Some icons will require attribution. I recommend that you instead go ahead
 
 Now comes the part where we take our ingredients and cook a delicious dish. Open up Sketch and make a square Artboard from the **Insert** menu on the top left.
 
-![Take a moment to notice the other tools available. Behind this simplicity lies an infite number of things you can make.](./asset-15.png)
+![Take a moment to notice the other tools available. Behind this simplicity lies an infite number of things you can make.](/img/1*_MbbWtOS5yrVTftEYX32EQ.png)
 
 You should have a canvas to work on now. Fix up the width and height to be exactly square from the options in the right sidebar.
 
-![Our blank canvas is ready. It’s always daunting at this point.](./asset-16.png)
+![Our blank canvas is ready. It’s always daunting at this point.](/img/1*Bz2ZmDd285HMoauu4wsBRg.png)
 
 Drag and drop your assets onto the canvas. The vegetables are ready for chopping!
 
-![Take a moment to inspect the layers in the left sidebar. Notice how they are built using more primitive shapes.](./asset-17.png)
+![Take a moment to inspect the layers in the left sidebar. Notice how they are built using more primitive shapes.](/img/1*J4BdpxcbxmaL8lq9HiwWMQ.png)
 
 Let’s first focus on the shape of our icon, its a matter of a long series of trial and error experiments about what looks good and what doesn’t.
 
-![](./asset-18.png)![](./asset-19.png)![](./asset-20.png)
+![](/img/1*eZUPXEpT7eBAgVV9Hk2lRw.png)![](/img/1*NZqzmnVD1HL7ctsr9P48sw.png)![](/img/1*0tWHtcTQ_FhXK33cj7f3gg.png)
 
-![](./asset-21.png)![You can use the right sidebar to make one of the icons white. You can also move the layers up and down using the heirarchy on the left.](./asset-22.png)
+![](/img/1*IAuH3rSvydMcHhTPiC-Y8Q.png)![You can use the right sidebar to make one of the icons white. You can also move the layers up and down using the heirarchy on the left.](/img/1*GYHbggZ823qoMVnott-Oug.png)
 
 No idea is too silly at this stage. Feel free to experiment and keep an eye on how it makes you feel. I started with the approach of putting the heart inside the icon of the person and it was quickly apparent that going the other way round made much more sense.
 
@@ -93,29 +93,29 @@ Even when using the approach of putting the running icon inside the heart icon, 
 
 At this stage you would arrive at a pretty unique and bold shape for your icon. For me while doing the Sportzify icon, it was this shape.
 
-![As soon as I had a shape that I fell in love with, I knew we had something.](./asset-23.png)
+![As soon as I had a shape that I fell in love with, I knew we had something.](/img/1*jvhtvgG9wMFLdQF4vpxokA.png)
 
 Now it was a matter of getting the right colors and some finishing touches.
 
-![Use the subtract tool to merge the different shapes into one single shape that is now our icon.](./asset-24.png)
+![Use the subtract tool to merge the different shapes into one single shape that is now our icon.](/img/1*htcJzkdGNcV05BMGnfjE7w.png)
 
 Now when you hover over the icon, the outline of the shape will tell you that it is now just one single shape. Now we can easily color in this shape.
 
-![](./asset-25.png)![A simple gradient overlay can give a beautiful effect to the icon.](./asset-26.png)
+![](/img/1*azyeB7HrnYqHfZNKnjfBOQ.png)![A simple gradient overlay can give a beautiful effect to the icon.](/img/1*4C_P_X4fEWrxNAyqB1mquw.png)
 
 I like to experiment with using the primary colour as the fill and then overlaying with a simple gradient. Notice how the icon begins to really shine at this point.
 
-![Pairing the logo with the name for use in contexts like the homepage.](./asset-27.png)
+![Pairing the logo with the name for use in contexts like the homepage.](/img/1*8QMfM2aFVP_a6eiUL4rh1w.png)
 
 Using the handy Text tool, in Sketch, add another layer with the name of your company and pick a nice font that goes well with what you are trying to convey. In this case, this bold font fit right in our theme of _being bold_ and _being strong_.
 
-![Quickly build a set of variations for use in different contexts.](./asset-28.png)
+![Quickly build a set of variations for use in different contexts.](/img/1*mqve-faC4S_0X8xisPivsA.png)
 
 It is important to consider how your logo will look on a white background, on a dark background, on a t-shirt, or a mug or a sticker. A quick set of mocks of the different variations will give you a nice idea of the different variations that you can use. Notice how we also now have icons for the Android and iOS apps.
 
 I’ll leave it upto you to learn about the excellent Export tool in Sketch! You can find it on the bottom right of the screen. It allows you to export all your created assets in just one click!
 
-![A mockup of the logo in context on the website.](./asset-29.png)
+![A mockup of the logo in context on the website.](/img/1*CQ1YIlZNJJqXySeYwDGH_g.png)
 
 And there you have it! The Sportzify branding is ready.
 

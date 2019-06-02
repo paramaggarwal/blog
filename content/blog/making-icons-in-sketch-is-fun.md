@@ -24,25 +24,25 @@ He teaches the basics of the vector tools available in Sketch in a highly practi
 
 I deligently followed the steps, trying to be faithful to the tutorial, because I really liked the icon he makes in the tutorial. I wanted to make sure I am able to reproduce the same — and I succeeded!
 
-![Made in Sketch by following Sebastien’s tutorial.](./asset-1.png)
+![Made in Sketch by following Sebastien’s tutorial.](/img/0*wITrZGxxO5CkzDlu.png)
 
 It is hard to explain the joy of seeing something beautiful, and feeling that you could never make something like it — but then going ahead and actually making it.
 
 Following the steps in the tutorial exactly as mentioned allowed me to gain this confidence. It was time to go exploring myself. I started tweaking the different values like the colour gradients and the vector shapes — and arrived at this icon, which looks very different, but has elements of the original icon.
 
-![Made in Sketch, by tweaking shapes and colours in the original icon.](./asset-2.png)
+![Made in Sketch, by tweaking shapes and colours in the original icon.](/img/0*DTnWdyDqZbFxNfln.png)
 
 Again, a large boost of confidence. This is something truly unique and I absolutely loved it. Though it has elements of the original icon, it is also sufficiently unique.
 
 But after the initial excitement subsided, I realized that there were too many shadows for my taste. How can I reduce this to it’s very essence?
 
-![Simplified version of the variant above.](./asset-3.png)
+![Simplified version of the variant above.](/img/0*OFGAu8aH4uqjTq6S.png)
 
 With that thought, I started removing as many shadows and superficial elements I could and ended up with this icon. My confidence was re-filled — I could do this.
 
 I felt I was ready to start from scratch on an icon. I opened up my phone and looked at the icons on the home screen. The McDonalds app caught my eye. The ® logo on the icon seemed out of place for an app icon — which other company puts it there? So I decided this would be the first icon I try to replicate.
 
-![The McDonalds app icon.](./asset-4.png)
+![The McDonalds app icon.](/img/1*VZP75u02K8SP3wCwi9UF-g.png)
 
 I downloaded an image of the logo and traced it with Sketch’s bezier curves. As I moved around the control points, I discovered that there is actually a pattern to how the curves are made. I now have a lot of respect for the designer of these iconic golden arches.
 
@@ -50,7 +50,7 @@ I also realized how great it is that they were able to use the first letter of t
 
 Here is my final icon!
 
-![](./asset-5.png)
+![](/img/0*GrhKiZIItrQDOmYq.png)
 
 I am delighted by Sketch, and I highly recommend anyone with a creative bent to give it a shot. Just start with the tutorial above.
 

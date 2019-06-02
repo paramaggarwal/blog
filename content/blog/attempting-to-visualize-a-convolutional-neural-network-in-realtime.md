@@ -13,7 +13,7 @@ published: true
 canonicalLink: https://towardsdatascience.com/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13
 ---
 
-![](./asset-1.png)
+![](/img/1*bjyz0mHGx9T98fYzWl62CA.png)
 
 ## While replicating the End-to-End Deep Learning approach for Self- Driving Cars, I was frustrated by the lack of visibility into what the network is seeing. I built a tool to fix this.
 

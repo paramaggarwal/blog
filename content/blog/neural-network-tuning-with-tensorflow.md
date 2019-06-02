@@ -37,7 +37,7 @@ What do you do when you hit the seams of today’s technology? You revive a 20 y
 
 Alright, so there is no code to write, right? Oops. Now there are a bazillion parameters of the network to tune. Yes, most of them are going to tune themselves as they see more and more data. But you still need to tune the correct hyper-parameters (parameters that affect other parameters) to be just right.
 
-![LeNet-5 Architecture](./asset-1.png)
+![LeNet-5 Architecture](/img/1*BqkU9O6T8lwNbJJN-bS0yw.png)
 
 I started with the standard LeNet architecture. It has two convolution layers and three fully-connected layers. All input images are 32x32 in size with three channels of colour.
 
@@ -46,7 +46,7 @@ I decide that before trying to optimize the network itself, I’ll try to modify
 1.  The input data samples had different counts for each output class. Which is to say there were few examples of a certain type of sign and plenty of another. Like everyone else, I tried to augment the images in two ways — rotate and shift. Unfortunately, this did not improve things very much for me. At the end of the day, trying to balance this out manually (writing code instead of using neural network) is unfair and gives an inaccurate picture of the real world — which will see a certain type of sign appear more frequently than others.
 2.  I tried to normalize the input range. Instead of the colours going from 0 to 255, I tried 0 to 1, -0.5 to 0.5 and 0.1 to 0.9. Though this is definitely recommended, I saw decent performance without it. I am personally against doing manual modifications to given input, more on that below.
 
-![Some classes are better represented and some are under-represented in the data.](./asset-2.png)
+![Some classes are better represented and some are under-represented in the data.](/img/1*lnxVkaLYTseMBlPVlVGf8Q.png)
 
 When input augmentations didn’t work very well for me, I turned to the model itself. A crazy thought occured to me, how small can we go?
 

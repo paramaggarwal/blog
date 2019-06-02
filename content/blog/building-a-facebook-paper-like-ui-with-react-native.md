@@ -25,11 +25,11 @@ What follows is a look into how I went about building a basic copy of one of the
 
 Here is what it looks like:
 
-![](./asset-1.png)![Actual screenshots from the working demo.](./asset-2.png)
+![](/img/1*-S3SagqC6isPtGzFh3JuUA.png)![Actual screenshots from the working demo.](/img/1*Mwt_AhbIPRr8-Hx9IWrQ5A.png)
 
 The screenshots above are from what I have built. On the left is the list of cards currently zoomed out. You can swipe through them. You can also pull them up and have them go full screen. In which case, now you can paginate through them full screen, one by one. Compare this with a similar interaction model on Facebook Paper below.
 
-![The zoomed out carousel of cards at the bottom.](./asset-3.jpeg)A video showcasing the original interactions of the app. See the 1:15 mark.
+![The zoomed out carousel of cards at the bottom.](/img/1*TtJNj6_ux3kTzicf9i1glQ.jpeg)A video showcasing the original interactions of the app. See the 1:15 mark.
 
 It starts with instantiating two state variables. One to store the pan values and another to store progress of the docking animation from 0 to 1. This progress variable is interpolated based on the pan values.
 

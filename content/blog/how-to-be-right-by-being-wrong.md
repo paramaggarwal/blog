@@ -12,7 +12,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/how-to-be-right-by-being-wrong-9fd26dca20b3
 ---
 
-![Photo by [Jilbert Ebrahimi](https://unsplash.com/photos/pVEcNabAg9o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](./asset-1.jpeg)
+![Photo by [Jilbert Ebrahimi](https://unsplash.com/photos/pVEcNabAg9o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/img/1*5Btoy9a3mQDU211aPzU1mQ.jpeg)
 
 ## Being wrong is better than _staying shut in the pursuit of the right_.
 
@@ -20,7 +20,7 @@ I take joy in being wrong sometimes — it’s my gateway to coming out as r
 
 Intentionally saying something that I know has a high chance of being wrong allows others to immediately jump to correcting me and hence fill in the gaps in my understanding in the most efficient way possible. By being so visibly and obviously wrong, the amount of effort someone needs to correct me with the exact piece of missing information is trivial.
 
-![Assume you don’t know how to make the nose.](./asset-2.jpeg)
+![Assume you don’t know how to make the nose.](/img/1*RkKLAlT1SxIk_qRCdgmq5w.jpeg)
 
 Let’s speak with a metaphor — say you are building a sculpture but you don’t know how to make a human nose on your otherwise beautiful sculpture.
 

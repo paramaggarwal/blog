@@ -1,7 +1,7 @@
 ---
 title: "A Day in the Old Era of 2017"
 description: "Looking back at ideas from the first two decades of this century — and how hilarious they seem in hindsight."
-date: "2019-06-02T10:13:44.153Z"
+date: "2019-06-02T10:31:36.872Z"
 categories: []
 published: false
 ---

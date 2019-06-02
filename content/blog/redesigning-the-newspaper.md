@@ -15,7 +15,7 @@ Newspapers have been what they are for many years now. New media companies start
 
 It’s cluttered and messy. Let’s try improving it.
 
-![](./asset-1.jpg)
+![](/img/0*bfvDerGcVF08KhD6.jpg)
 
 **Form**:
 
@@ -26,7 +26,7 @@ It’s cluttered and messy. Let’s try improving it.
 -   Bottom area contains the major headlines (B) with reference to the page number of main article.
 -   Ads have fixed size options only © and there is a minimum size to ads. All small ads go in classifieds. They are not needed.
 
-![](./asset-2.jpg)
+![](/img/0*2bsopmB697jx_agL.jpg)
 
 **Media**:
 
@@ -37,7 +37,7 @@ It’s cluttered and messy. Let’s try improving it.
 -   Atleast one infographic, excerpt, photo or cartoon of uniform size. This will add much needed color.
 -   News would have a clear category/topic to suggest it as an update to ongoing news, like Google living stories.
 
-![](./asset-3.jpg)
+![](/img/0*WSE7oSJloMMLLAO4.jpg)
 
 **Pages**:
 
@@ -49,7 +49,7 @@ It’s cluttered and messy. Let’s try improving it.
 -   Sports section should have scores box and group different sports together — cricket/football etc.
 -   Ad size fixed, and standard. ©
 
-![](./asset-4.jpg)
+![](/img/0*SwfmNmfwG_3ByoGy.jpg)
 
 **Placement**:
 

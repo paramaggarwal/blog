@@ -11,7 +11,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/8-life-lessons-there-is-no-turning-back-from-db1de3fa34e0
 ---
 
-![[credit](https://unsplash.com/photos/EeEx8zpOESA)](./asset-1.jpeg)
+![[credit](https://unsplash.com/photos/EeEx8zpOESA)](/img/1*Cx-q7nR743tuMdkgSDa3dg.jpeg)
 
 ## You can agree or disagree, but you can’t ignore them.
 

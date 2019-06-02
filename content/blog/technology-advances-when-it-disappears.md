@@ -1,7 +1,7 @@
 ---
 title: "Technology advances when it disappears"
 description: "In the entire history of this thing called technology, at each step we have advanced technology has disappeared."
-date: "2019-06-02T10:14:13.515Z"
+date: "2019-06-02T10:32:00.315Z"
 categories: []
 published: false
 ---

@@ -13,7 +13,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/on-good-taste-fa3a2572a5af
 ---
 
-![([credit](https://unsplash.com/photos/Lnou48GrIWc))](./asset-1.jpeg)
+![([credit](https://unsplash.com/photos/Lnou48GrIWc))](/img/1*KZVF4BAaiJt61OIaMkvBvg.jpeg)
 
 ## Ira Glass gave an interview in 2009 about storytelling and happened to mention something that absolutely nobody tells beginners — without which many of them just quit.
 

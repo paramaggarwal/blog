@@ -13,7 +13,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/start-with-arduino-for-just-3-63749fea4827
 ---
 
-![Practically magic.](./asset-1.png)
+![Practically magic.](/img/1*ICqCuoSzC3Vy-VdwdhvW3g.png)
 
 ## Don’t use an Arduino Uno board — instead use an ESP8266 based module that is many times more capable than the Arduino, but still ten times cheaper!
 

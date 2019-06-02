@@ -10,7 +10,7 @@ published: true
 canonicalLink: http://paramaggarwal.com/post/45760733323/email-the-killer-app-no-one-saw-coming-and
 ---
 
-![[credit](https://unsplash.com/photos/GikVY_KS9vQ)](./asset-1.jpeg)
+![[credit](https://unsplash.com/photos/GikVY_KS9vQ)](/img/1*WcIi4QEeGRC0btw4nImRVQ.jpeg)
 
 ## And still doesn’t.
 

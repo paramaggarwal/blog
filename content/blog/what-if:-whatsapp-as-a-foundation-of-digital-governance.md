@@ -1,7 +1,7 @@
 ---
 title: "What if: WhatsApp as a foundation of Digital Governance"
 description: "The next era of identification, messaging and payments could form the basis of how we go about our daily lives — and it would live in our…"
-date: "2019-06-02T10:12:43.185Z"
+date: "2019-06-02T10:30:40.168Z"
 categories: []
 published: false
 ---

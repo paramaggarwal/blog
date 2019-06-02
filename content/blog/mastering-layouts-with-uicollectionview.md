@@ -21,7 +21,7 @@ If you have never used UICollectionView before, then head over to NSHipster and 
 
 Using the UICollectionViewFlowLayout, the attributes for each item in the collection view can be be specified manually. So you could position them in a circle, or you could tilt them sideways as the collection view scrolls — achieving a carousel effect. When we were developing the [Myntra iOS app](http://t.umblr.com/redirect?z=https%3A%2F%2Fitunes.apple.com%2Fin%2Fapp%2Fmyntra-indias-fashion-store%2Fid907394059%3Fmt%3D8&t=NTdiNTgzYmFkZmM2NWEyOTdjNTU0NTgzOWQzOWY3NTY4NjhlMWUzOSxsZEpTQ1JKdQ%3D%3D), we needed a way to have a sticky header for the search results. This header would then show prominent _Sort_ and _Filter_ buttons.
 
-![](./asset-1.png)
+![](/img/1*TZak1XVHNAKS_hH7N9lSEQ.png)
 
 The sort/filter bar at the top is a section header in the collection of search results. So when you scroll down the results, the bar remains sticky at the top of the view. A quick search pointed us to [CSStickyHeaderFlowLayout](http://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fjamztang%2FCSStickyHeaderFlowLayout&t=NjZjZDlkZjVjOWE4NDcyYjYzMWIyNzYzNTBkYjJiZmY3OWIzNzJiYyxsZEpTQ1JKdQ%3D%3D) which is a simple flow layout subclass to achieve sticky headers.
 
@@ -29,7 +29,7 @@ But soon we needed sticky footers too. The idea was to make the _Buy Now_ bar on
 
 The output of this effort is MYNStickyFlowLayout, a drop-in collection view layout class, that gives you sticky headers and footers for collection views. Let’s dive into [the code](http://t.umblr.com/redirect?z=https%3A%2F%2Fgithub.com%2Fmyntra%2FMYNStickyFlowLayout%2Fblob%2Fmaster%2FClasses%2FMYNStickyFlowLayout.m&t=ZTgyMmZhZmUxN2NjY2ViMTc3NDdmMmY4Yjc2ODQyNDNiZDMzNjhmMSxsZEpTQ1JKdQ%3D%3D) and understand what is going on.
 
-![](./asset-2.gif)
+![](/img/1*EpMa2zKRWQFc3LLhbNOgRA.gif)
 
 Let’s walk through what it takes to implement a custom layout for UICollectionView. First you subclass UICollectionViewFlowLayout, because that is an excellent starting point. The most important method to implement is — (NSArray \*)layoutAttributesForElementsInRect:(CGRect)rect. This is called by UICollectionView everytime it needs to display cells on the screen. It does this even before the cells are created. This is because the output of this method determines which cells are on screen and hence need to be displayed.
 
@@ -43,7 +43,7 @@ Also while we are at it, we position them based on the position of the first/las
 
 Everytime the collection view scrolls, it recalculates these attributes. And finds the best position for the section headers and footers. Thanks to all of this math, we finally get a sticky footer for the product details screen.
 
-![](./asset-3.gif)
+![](/img/1*ZBdZzaLMctejTI8pHXFNGw.gif)
 
 What you see are two sections, and the first section has the _Buy Now_ bar as a section footer. Hence it remains on screen while you are viewing the first section.
 

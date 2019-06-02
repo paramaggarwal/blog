@@ -21,23 +21,23 @@ We loved embedded electronics, and it was fitting to go for this competition. We
 
 Then in January, I came to Mumbai to participate. Everything was quite fine till the end, until the motor drivers started blowing because of our design flaw. Anyways, here are the details:
 
-![](./asset-1.jpg)
+![](/img/0*0rO4zH1YVT31uhPJ.jpg)
 
 The chasis. Cut from Aluminium. The arms are to hold the cubes.
 
-![](./asset-2.jpg)
+![](/img/0*zAW-jqo--oQVqDt9.jpg)
 
 The main board. This is what connects everything together. All boards, wires connect into this.
 
-![](./asset-3.jpg)
+![](/img/0*9TaeDMWzORmLTNzt.jpg)
 
 Bottom of the main board. Look at the amount of solder!
 
-![](./asset-4.jpg)
+![](/img/0*rXgkXGE_TU2OEIiP.jpg)
 
 Here are the boards without the chasis. We are testing wireless communication. The small red board is the wireless board. The two identical long ones are drivers. And you can guess the batteries.
 
-![](./asset-5.jpg)
+![](/img/0*KdlGPhInBddPH5uX.jpg)
 
 Here are the completed bots. One of the best hardware among the participants…
 
@@ -69,7 +69,7 @@ _Ingredients_ per bot:
 -   One Nordic nRF24L01+ wireless transceiver
 -   Four Li-poly boards
 
-![](./asset-6.jpg)
+![](/img/0*GmTMj8YH3AeqNkk9.jpg)
 
 The tools of the trade. Do we need a minimalism theory for electronics?
 

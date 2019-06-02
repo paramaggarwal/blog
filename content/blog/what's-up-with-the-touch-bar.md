@@ -33,11 +33,11 @@ Let’s start with the most fundamental of such UI, and that is the scroll bar. 
 
 We solved this by bringing the scroll bars to the mouse itself. They started with scroll wheels, then touch pointers and then touch pads. Slowly we arrive at today where we never really interact with scroll bars, they just exist to give context.
 
-![credit: [Ben Brooks](https://bbrks.me/reinventing-scrollbars/)](./asset-1.png)
+![credit: [Ben Brooks](https://bbrks.me/reinventing-scrollbars/)](/img/1*CFN9Km6XSX4g8s8rviCaxQ.png)
 
 Next, what other piece of interface can we remove that is simply taking away space from content?
 
-![](./asset-2.jpeg)
+![](/img/1*H8f1pEm_oZ8e61JcHvLK1w.jpeg)
 
 When was the last time you had to interact with these buttons? Most likely, you use the pinch to zoom feature on your Trackpad and even possibly the click and drag ability of it. Gone. One more piece of interface that doesn’t require the move, interact with interface, move back, interact with content pattern. Now your mouse pointer remains on the content.
 
@@ -45,13 +45,13 @@ So what should Apple tackle next? What other piece of interface do we constantly
 
 How about these guys:
 
-![Finder](./asset-3.png)![WhatsApp](./asset-4.png)![Safari](./asset-5.png)![Notes](./asset-6.png)
+![Finder](/img/1*JA-pqSuvFUeQ3YW0VBsw0g.png)![WhatsApp](/img/1*avTeKN5U03fJ-86ZyUckBg.png)![Safari](/img/1*4La_BvrkNv9xK5gaQsl7nw.png)![Notes](/img/1*bxMV2fqA_Ts32sK9dAx5uA.png)
 
 Notice how much of these toolbars are just filled with buttons. It’s another familiar select and interact model of desktop computers. Another piece of interface that constantly requires moving the mouse up, away from the content for a few moments and then interacting and bringing it back on the content. So cumbersome!
 
 What if we finally had all the technological advancements in place to fit an entire touch display in the space taken by the keys of a keyboard!
 
-![Credit: [AgileBits Blog](https://blog.agilebits.com/2016/10/28/having-fun-with-touch-id-and-the-touch-bar-in-1password/)](./asset-7.png)
+![Credit: [AgileBits Blog](https://blog.agilebits.com/2016/10/28/having-fun-with-touch-id-and-the-touch-bar-in-1password/)](/img/1*d7qBB6hQK93WZ220HB0eVw.png)
 
 In 2016, we can.
 

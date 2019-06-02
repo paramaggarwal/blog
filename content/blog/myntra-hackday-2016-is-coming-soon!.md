@@ -17,7 +17,7 @@ _The next Myntra Hackday is scheduled for April 2016. Follow Myntra Engineering 
 
 Last year, we did our first open Hackday, and we called it Hackerramp!
 
-![](./asset-1.png)
+![](/img/0*QvoGVMsivnhfeEjt.png)
 
 Hackerramp, Myntra’s first open hackathon happened on the weekend of April 25–26 2015. Thanks to all the 180 participants who made this event a grand success. We had around 35 teams presenting their amazing hacks to the Jury.
 
@@ -27,7 +27,7 @@ The goal was simple — make the next big thing in mobile. Be it an app, an 
 
 Myntra had done a Hackday in the past, but this was the first time we opened to everyone, which meant we had to get this right. There was a lot of preparation put in. There had to be great food throughout the day, great talks to kick off the event and some great goodies for the participants to take home!
 
-![](./asset-2.jpg)![](./asset-3.jpg)![](./asset-4.jpg)
+![](/img/0*HSaL3qE24K1NO-xF.jpg)![](/img/0*NX1I02_14JCEoTI8.jpg)![](/img/0*CwL3HDqYh3ZtaL6e.jpg)
 
 ### Talks
 
@@ -37,15 +37,15 @@ We had three talks:
 -   Punit Soni spoke about his move from US to India and his experience at Google and Motorola.
 -   Sunil Pai spoke about recent trends and changes in programming — introducing Reactive Programming to the audience.
 
-![](./asset-5.jpg)![](./asset-6.jpg)
+![](/img/0*ciMJGoytxRnYjkMy.jpg)![](/img/0*Zkoh_DNf5PelSiZY.jpg)
 
 ### Hacking
 
-![Taking a break from hacking.](./asset-7.jpg)![Amod Malviya participates in a demo.](./asset-8.jpg)![Brainstorming the next big thing.](./asset-9.jpg)![Never too far from some cricket.](./asset-10.jpg)
+![Taking a break from hacking.](/img/0*saOgx5pkHkwwxlTb.jpg)![Amod Malviya participates in a demo.](/img/0*3SQiP1rDbx3gJ2P4.jpg)![Brainstorming the next big thing.](/img/0*AY4FZvnsRTQHPNBO.jpg)![Never too far from some cricket.](/img/0*KLPQlmkHgkb9YLd6.jpg)
 
 ### Jury
 
-![The Jury](./asset-11.jpg)
+![The Jury](/img/0*i_vTBJa7vLH9c1K1.jpg)
 
 We had an amazing panel judge the teams (from left to right):
 
@@ -56,7 +56,7 @@ We had an amazing panel judge the teams (from left to right):
 
 ### Prizes
 
-![](./asset-12.jpg)
+![](/img/0*YoMdSfu3gjHD6ahN.jpg)
 
 When you have 35 highly-driven teams competing for a prize bucket of 3,00,000 rupees, you know they Jury is going to have a hard time deciding. So hard, that they actually announced four winners!
 
@@ -65,6 +65,6 @@ When you have 35 highly-driven teams competing for a prize bucket of 3,00,000 ru
 3.  Augmented Reality Shooting Game (Massacre): Nilesh Hiray and Naveen Reddy from Myntra. Prize: Rs. 50,000.
 4.  Smart Links (The app that links all other apps): Niketh and Niteesh. They are from Yahoo ad Fungru. Prize: Rs. 25,000.
 
-![](./asset-13.jpg)
+![](/img/0*Ugg0FqYIBm5S8j_i.jpg)
 
 Thank you for coming and see you again next year! (Follow Myntra Engineering on Twitter to be in the know! [@myntra\_engg](https://twitter.com/myntra_engg))

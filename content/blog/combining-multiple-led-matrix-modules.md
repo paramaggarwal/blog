@@ -13,23 +13,23 @@ canonicalLink: http://paramaggarwal.com/post/35136243259/combining-multiple-led-
 
 This post uses a few [LED Matrix Modules](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FFeemo-Matrix-Adapter-id-47758.html&t=OWFjZWQwNDEzMjc4NTljZTkzYmM2MDg3NmEwZDRjODkxYmRhZDczMyxsSGhhTmJaMw%3D%3D), that allow you to easily connect [8x8 LED Matrix displays](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FRGB-LED-Matrix---8x8-Red--Common-Cathode--id-47751.html&t=ODIwNWNmNjU0YWZjOWQ3YTJiYjkxYmY2ZmQxNDllZDU1Njc3MzM0MixsSGhhTmJaMw%3D%3D) to your Arduino.
 
-![](./asset-1.jpg)
+![](/img/0*fL9h10XARLUAGLzV.jpg)
 
 In a [previous post](http://www.paramaggarwal.com/post/35136388954/using-an-led-matrix-module), you saw how easy it is to connect one of these to an Arduino and draw to the Matrix from a buffer.
 
-![](./asset-2.jpg)
+![](/img/0*I7TnuDOLxjlBCbHR.jpg)
 
 Now in this post we will take things further, and use _three_ LED matrices to form a long display of 24x8 which is great for displaying scrolling text.
 
-![](./asset-3.jpg)
+![](/img/0*V-PjZN7l8u-oobLe.jpg)
 
 Now each adapter has six pins. The first two are VCC (5V) and GND. Next come the CLK, DATA, LATCH and ENABLE pins. To connect three of these together, we can connect all the pins together into one pin on the Arduino except the DATA pin.
 
-![](./asset-4.jpg)
+![](/img/0*eFqrLxCgVrNq5ZSa.jpg)
 
 I used a [breadboard](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FBreadboard-id-36708.html&t=MWE2MjZiNmQ3OWQzOWViN2RlMTVlMTkxZjM5ZjJjZDRmOGY3ZTMzYSxsSGhhTmJaMw%3D%3D) with some [male header pins](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FHeader-Pins---Male-id-36706.html&t=OTA0MzI3YTEyMzk0M2VhNWQ0N2IyODllZGE5MWZkNWYxZGE1MDVjMCxsSGhhTmJaMw%3D%3D) to do this. Also, [jumper wires](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FJumper-Wires---Pack-of-10-id-36704.html&t=ZGI2OTYwZmYyYzIxM2Q4NzNlZDI0YzM4NjlhOTk0NTcyNWUwODFlZixsSGhhTmJaMw%3D%3D) work great for quickly making connections.
 
-![](./asset-5.jpg)
+![](/img/0*HdA79n0dRKXci6qG.jpg)
 
 Next, the common VCC line is connected to 5V on the Arduino, and the ENABLE and GND lines to GND pins on the Arduino.
 
@@ -37,7 +37,7 @@ The ENABLE line is active low, hence to enable the displays, we need to give a l
 
 The CLK line is connected on pin 12, latch on pin 11 and the three data pins from the three displays to pin 7, 6 and 5.
 
-![](./asset-6.jpg)
+![](/img/0*dlkMcr1an-lKqmoH.jpg)
 
 Thats it, the connections are done. It’s that easy. Now to proceed to the Arduino code.
 
@@ -47,13 +47,13 @@ First we will start with just displaying the buffer on the 24x8 screen. The belo
 
 Basically we initialise a 24 byte matrix with each byte corresponding to a column on the display. Then we multiplex through the columns to display the entire buffer on the displays.
 
-![](./asset-7.jpg)
+![](/img/0*T3FyoJGZDIJ5d8EQ.jpg)
 
 If you got it working, then congrats! We can quickly move to displaying text on the display now!
 
 Have a look at this code, and try running it to get scrolling text on the displays! [Code for Scrolling Text](http://t.umblr.com/redirect?z=https%3A%2F%2Fgist.github.com%2F3736908&t=OGIxMTJhZDAwMWFiNTAyYjI2YzY0MGNiZDM3N2UxMDgzNGJmYTI3MyxsSGhhTmJaMw%3D%3D).
 
-![](./asset-8.jpg)
+![](/img/0*Yq1LceGyqyt0xT83.jpg)
 
 This is how the scrolling text looks like!
 

@@ -11,37 +11,37 @@ published: true
 canonicalLink: http://paramaggarwal.com/post/584252880/automatic-parking-system
 ---
 
-![](./asset-1.jpg)
+![](/img/0*h7wmFo5wZ_BEJPKi.jpg)
 
 My science project in 11th std. made along with my friend Nigel Pais. We had won the second prize for this as part of a science exhibition.
 
 This is not exactly automated as such, but what it does is that it warns us if the wall is too close while backing up. This helps us to park the car faster and without damaging it. Also there is an automatic garage door that is operated by a touch sensor.
 
-![](./asset-2.jpg)
+![](/img/0*luU79m1wWdp7CT-c.jpg)
 
 The motor to raise the garage door. It is taped to a box with water to hold it down while it pulls the door. The box is then fixed in thermocol to keep it from moving around.
 
-![](./asset-3.jpg)
+![](/img/0*NyjMm_YMjxHlICOT.jpg)
 
 The side view of the garage. The wires go to the car to power the sensor. We didn’t use a battery as we had to keep it running throughout day, for the exhibition.
 
-![](./asset-4.jpg)
+![](/img/0*_F9L5bYnFdRue6Qb.jpg)
 
 The car and the garage. Just on the right side of the door, there is agolden coin like plate; this is the touch sensor to open the garage door.
 
-![](./asset-5.jpg)
+![](/img/0*PUMY3YZAr2rjoay_.jpg)
 
 The chart to explain the project. _Technical details_.
 
-![](./asset-6.jpg)
+![](/img/0*BxHQxjTviQZc2v-v.jpg)
 
 The car parked in the garage. Here Nigel is holding the thread that pulls the garage door open.
 
-![](./asset-7.jpg)
+![](/img/0*D69Nn-ydMj4kloXT.jpg)
 
 From left, the motor to lift the garage door, power supply and the touch sensor board. The touch sensor board is a kit bought from Visha Electronics at Lamington Road, Mumbai.
 
-![](./asset-8.jpg)
+![](/img/0*7Ru93gQzlMYze8cd.jpg)
 
 Here you can see the proximity sensor at the back of the car, and the alarm system in the middle.
 

@@ -9,7 +9,7 @@ published: true
 canonicalLink: http://paramaggarwal.com/post/584064007/i-had-written-a-letter-to-chip-magazine-regarding
 ---
 
-![](./asset-1.jpg)
+![](/img/0*B59bpYUsHyxFEtqa.jpg)
 
 I had written a letter to CHIP Magazine regarding reviewing higher-end devices like Mac and iPod. I was surprised to see it printed!
 

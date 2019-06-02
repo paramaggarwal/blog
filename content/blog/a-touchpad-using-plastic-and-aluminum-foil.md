@@ -13,19 +13,19 @@ canonicalLink: http://paramaggarwal.com/post/2809347708/a-touchpad-using-plastic
 
 The easiest, cheapest and fastest way in which we could implement a touchpad was to use simple metal strips horizontally and vertically. When the user touches, the two strips come in contact and this is detected by a micro controller. This data is then sent to the computer.
 
-![](./asset-1.jpg)
+![](/img/0*Ml8K5t3WiP1tJQQV.jpg)
 
 Our touchpad.
 
-![](./asset-2.jpg)
+![](/img/0*4WSDTGk47z4rXzlC.jpg)
 
 The aluminium strips.
 
-![](./asset-3.jpg)
+![](/img/0*WNZ9wkyY0eiqI10h.jpg)
 
 Tape used as insulation.
 
-![](./asset-4.jpg)
+![](/img/0*sZoJvlCbWNcthGll.jpg)
 
 Visualization on the computer.
 

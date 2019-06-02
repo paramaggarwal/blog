@@ -11,37 +11,37 @@ published: true
 canonicalLink: http://paramaggarwal.com/post/29259437177/wireless-link-using-nordic-nrf24l01-modules
 ---
 
-![](./asset-1.jpg)
+![](/img/0*3FnOkH5s9E9NoaAH.jpg)
 
 I just really like these modules. They are extremely cute. That little chip on the board is a Nordic nRF24L01+ 2.4GHz transceiver and is actually just 3x3mm. Really tiny.
 
-![](./asset-2.jpg)
+![](/img/0*5k4pQnyWXoH875n5.jpg)
 
 I must say Sparkfun has a certain design sense of laying out boards. Really beautiful and easy to use. The pins are clearly labelled. They sell them for $20 [here](http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.sparkfun.com%2Fproducts%2F691&t=Yzg3MDNjYTk1M2EyNTJiOTkwNDY3Zjc3YWNhZmFiNWJiNTc3NGY2OSxqT0xDemNYZg%3D%3D). In India, I sell via [my site](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in&t=MGRiMzgxMmU4NTliN2VhZWExNDhkZDdmYTEzZWU4ZmNhNmZkYWFjYyxqT0xDemNYZg%3D%3D).
 
 They come without the header pins, so I had to solder them myself. I have started using these great jumper wires that keep things really clean. Before I used to strip wires which was very finicky.
 
-![](./asset-3.jpg)
+![](/img/0*poFWKLn_t1Q7buFN.jpg)
 
 The modules are SPI driven, and the appropriate Arduino library is also available [here](http://t.umblr.com/redirect?z=http%3A%2F%2Farduino.cc%2Fplayground%2FInterfacingWithHardware%2FNrf24L01&t=ZGI2ZTkxOTZhYWI3MjFkYTkzOTkwZjllZWM5YjU3OTc0MThiNTc3ZSxqT0xDemNYZg%3D%3D). That makes them really easy to use.
 
-![](./asset-4.jpg)
+![](/img/0*8tNerDb7F6y-keGv.jpg)
 
 I must restate my love for Arduino here. Makes it really easy to start out with your ideas rather than taking care of the programming and wiring concerns for the ATmega chip at the heart of the Arduino. Also, these last really really long. My first Arduino, the Diecimila is four years old now. Still going rock solid. Its easy to get in India via this [huge list](http://t.umblr.com/redirect?z=http%3A%2F%2Farduino.cc%2Fen%2FMain%2FBuy&t=NjRjYWNmMTM3NTQ5NjMzYTM2YTk4ZDYxNWIyYmUwYzMyM2Y1MzNjMSxqT0xDemNYZg%3D%3D) of sellers for about Rs. 1500. I sell them [here](http://t.umblr.com/redirect?z=http%3A%2F%2Ffeemo.in&t=NGJlYmRmYzc3NTJkYjI4ODUwZmQ4MTY1MzVlZjQyNGVmNDNiZWFhMSxqT0xDemNYZg%3D%3D), and Sparkfun, [here](http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.sparkfun.com%2Fcategories%2F103&t=YjUzZjZhNzVjOTNjYzkwMTgxYTRlZWJiY2FlMzMzMGRkODJhYzE3NyxqT0xDemNYZg%3D%3D).
 
-![](./asset-5.png)
+![](/img/0*n7JCHJVy0s4JSspA.png)
 
 Of course you need two of them to be able to talk to each other. I quickly wired them up to the Arduino with these really easy jumper wires. Do note that the power supply VCC has to be 3.3V, so you can use the corresponding supply pin on the Arduino.
 
-![](./asset-6.jpg)
+![](/img/0*uksRu94Q5IbM_T7a.jpg)
 
 Thankfully the pins are 5V tolerant, so you can connect them directly to the Arduino. Ok, so my two Arduino boards are ready to talk to each other. Now time for the software aspect.
 
-![](./asset-7.jpg)
+![](/img/0*vFrF1-MRnmGSZSms.jpg)
 
 All the coding examples below come from this [Arduino page](http://t.umblr.com/redirect?z=http%3A%2F%2Farduino.cc%2Fplayground%2FInterfacingWithHardware%2FNrf24L01&t=ZGI2ZTkxOTZhYWI3MjFkYTkzOTkwZjllZWM5YjU3OTc0MThiNTc3ZSxqT0xDemNYZg%3D%3D). In this example, one side is the server and one is the client. The server’s job is to just repeat whatever it receives. At the client side, it measures the time to get the response and prints it.
 
-![](./asset-8.png)
+![](/img/0*CsWa6Wjgm0c2iO-2.png)
 
 So like any Arduino code, first off we include all the header files for the libraries we will be using in this code. Next we have the setup() function which just runs once at start-up or reset. All configuration and setup is done here.
 
@@ -49,7 +49,7 @@ For debugging, we initialize the Serial communication between the Arduino and th
 
 We set the 5 byte receive address that the module uses to know which packets are addressed to it. A payload value is set for how long each of these packets is. This should be constant across the local network. Calling the config() function sets this last bit of settings in the module. Finally we let the console on the computer know at what stage we are, for debugging purposes.
 
-![](./asset-9.png)
+![](/img/0*RMdxXbSgwFMCe2fT.png)
 
 Now is the loop() function that runs indefinitely while the Arduino is running. The heart of the code lies here. The client saves the current timestamp to a variable and sets the transmit address for the packet it is about to send.
 
@@ -61,7 +61,7 @@ It waits for a second before repeating over again.
 
 Now for the server side of the code. The setup() function is the same, except the receiving address is now a different five byte address. The real magic is in the loop() function.
 
-![](./asset-10.png)
+![](/img/0*lFC7FwsbhbdShBuu.png)
 
 First make a little buffer for the new packet about to arrive. Wait for a new packet to arrive. As soon as it arrives, save it to the buffer. Now quickly set the transmit address and send it back.
 

@@ -17,7 +17,7 @@ How about something that just looks like a tiny speck of dust?
 
 So here’s what we are talking about:
 
-![](./asset-1.jpg)
+![](/img/0*rGcQhKoCRyKj3r_f.jpg)
 
 Here is a [video of it on Vimeo](http://t.umblr.com/redirect?z=http%3A%2F%2Fvimeo.com%2F5000787&t=NTljYThiMDYwNTEyZWNhY2ZiZTEzYTEyY2Y4NTU5M2FjOGQ2ZGVkYyxTUmlidzNIRA%3D%3D), showing it in action.
 
@@ -31,7 +31,7 @@ These things are so small that you get them in minimum quantities of 100!
 
 Here’s the schematic:
 
-![](./asset-2.jpg)
+![](/img/0*YZiCQe57p_X0fwQK.jpg)
 
 ---
 

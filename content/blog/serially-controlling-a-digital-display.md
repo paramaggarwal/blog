@@ -11,7 +11,7 @@ published: true
 canonicalLink: http://paramaggarwal.com/post/584282671/in-this-circuit-three-single-digit-displays-have
 ---
 
-![](./asset-1.jpg)
+![](/img/0*_9rtxDYSeiK7H6Vm.jpg)
 
 In this circuit, three single digit displays have been interfaced with the Arduino serially. I used three 74595 ICs (Serial to Parallel Shift registers) to do this. The whole aim was to learn how to use these ICs.
 

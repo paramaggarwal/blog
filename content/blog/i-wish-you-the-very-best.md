@@ -11,7 +11,7 @@ published: true
 canonicalLink: http://paramaggarwal.com/post/942625643/i-wish-you-enough-sun-to-keep-your-attitude
 ---
 
-![[credit](https://unsplash.com/photos/JYFmYif4n70)](./asset-1.jpeg)
+![[credit](https://unsplash.com/photos/JYFmYif4n70)](/img/1*s6ooQBLP3F1eIWzaWJ8Nkg.jpeg)
 
 ## But also wish you the hard and difficult things.
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Wrong Problems"
 description: "An outsider’s perspective on the situation in US right now and how they are attacking the wrong problem."
-date: "2019-06-02T10:14:04.232Z"
+date: "2019-06-02T10:31:51.899Z"
 categories: []
 published: false
 ---

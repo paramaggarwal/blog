@@ -13,7 +13,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/how-websites-evolved-back-to-static-html-css-js-files-57ce549f81db
 ---
 
-![Photo by [Hal Gatewood](https://unsplash.com/photos/tZc3vjPCk-Q?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/website?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](./asset-1.jpeg)
+![Photo by [Hal Gatewood](https://unsplash.com/photos/tZc3vjPCk-Q?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/website?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/img/1*Uv7vQj-WnJNVMBrQ8iaWYQ.jpeg)
 
 ## Or, the JAM stack.
 

@@ -15,7 +15,7 @@ canonicalLink: https://medium.com/@paramaggarwal/the-app-ecosystem-of-india-ipho
 
 Here is the list taken on a lazy Sunday Indian morning.
 
-![](./asset-1.png)
+![](/img/1*yT4rqZiVMOoFv7wEcjDXaA.png)
 
 Let’s now go through them one by one and understand what is going on.
 
@@ -37,7 +37,7 @@ Let’s now go through them one by one and understand what is going on.
 
 So here are the top 15 apps and which I personally believe are indicative of the app ecosystem. It might be argued that the Play Store top charts would be a better indication given that it has a much wider user-base, I believe that looking at the iOS charts helps us see where the higher-earning segment of India is spending their time. Actually, the Play Store charts speak of a similar story:
 
-![](./asset-2.png)
+![](/img/1*r2N_fpXWPyzGpiG_n-KVxw.png)
 
 YouTube comes pre-installed here. MX Player helps play a broader set of video formats on Android. Rest of the charts are just taken over by the MyJio suite of apps.
 

@@ -13,7 +13,7 @@ published: true
 canonicalLink: https://medium.com/@paramaggarwal/i-am-making-youtube-videos-1ae4349249be
 ---
 
-![Items from my mailbag video](./asset-1.jpeg)
+![Items from my mailbag video](/img/1*XaKggSChl1z0wTyeIsijwA.jpeg)
 
 ## Physical computing — the fascinating world of Arduino, ESP8266 and STM32. I’ll be sharing my projects and also fun mailbag videos of stuff I am experimenting with.
 

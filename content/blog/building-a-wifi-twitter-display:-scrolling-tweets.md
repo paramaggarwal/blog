@@ -15,7 +15,7 @@ In the previous post — [Combining multiple LED matrix modules](http://www.
 
 But the text was pre-programmed in the code, and hence was not of much utility. By connecting the device to the internet, we can get interesting and meaningful content to display on the device. For this purpose, I connected a [Sparkfun WiFly Shield](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.feemo.in%2Fproduct%2FWiFly-Shield-id-28907.html&t=Zjc4OTA0MGE5Nzk1MThjNjQ5Yzk5MzgwZmYzZGI2ZmQ1ZTIyZjczNCxzZDZIWGNyNg%3D%3D) on top of the Arduino Uno.
 
-![](./asset-1.jpg)
+![](/img/0*uDwehSBsKPiX0ckJ.jpg)
 
 This simple shield allows connectivity to the internet using WiFi. Let us first test the WiFi Shield to learn how to use it.
 
